@@ -1,0 +1,116 @@
+package http;
+
+import config.Constants;
+
+import java.util.*;
+import java.util.regex.Pattern;
+
+public class HttpRequestImpl implements HttpRequest {
+    private static final Pattern LINE_SPLIT_PATTERN = Pattern.compile(Constants.HTTP_LINE_SEPARATOR);
+    private static final Pattern REQUEST_LINE_SPLIT_PATTERN = Pattern.compile(Constants.REQUEST_LINE_SEPARATOR);
+    private static final Pattern HEADERS_SPLIT_PATTERN = Pattern.compile(Constants.HEADERS_SEPARATOR);
+    private static final Pattern PARAMS_DELIMITER_SPLIT_PATTERN = Pattern.compile(Constants.PARAMS_DELIMITER);
+    private static final Pattern PARAMS_SPLIT_PATTERN = Pattern.compile(Constants.PARAMS_SEPARATOR);
+
+    private Map<String, String> headers;
+    private Map<String, String> bodyParameters;
+    private List<HttpCookie> cookies;
+    private String method;
+    private String requestUrl;
+
+    public HttpRequestImpl(String request) {
+        headers = new HashMap<>();
+        bodyParameters = new HashMap<>();
+        cookies = new ArrayList<>();
+        parseRequest(request);
+    }
+
+    private void parseRequest(String request) {
+        List<String> lines = Arrays.asList(LINE_SPLIT_PATTERN.split(request));
+        if (lines.isEmpty()) {
+            return;
+        }
+
+        String[] requestLineTokens = REQUEST_LINE_SPLIT_PATTERN.split(lines.get(0));
+        setMethod(requestLineTokens[0]);
+        setRequestUrl(requestLineTokens[1]);
+
+        int lineIndex = 1;
+        for (; lineIndex < lines.size() && !lines.get(lineIndex).isEmpty(); lineIndex++) {
+            String[] kvp = HEADERS_SPLIT_PATTERN.split(lines.get(lineIndex));
+            addHeader(kvp[0], kvp[1]);
+        }
+
+        if (lineIndex == lines.size() - 2) {
+            Arrays.stream(PARAMS_DELIMITER_SPLIT_PATTERN.split(lines.get(lines.size() - 1)))
+                    .map(PARAMS_SPLIT_PATTERN::split)
+                    .forEach(kvp -> addBodyParameter(kvp[0], kvp[1]));
+        }
+
+        if (this.headers.containsKey("Cookie")){
+            String cookie = this.headers.get("Cookie");
+            Arrays.stream(cookie.split("; "))
+                    .forEach(cookieKvp -> {
+                        String[] cookieParams = cookieKvp.split("=");
+                        HttpCookie httpCookie = new HttpCookieImpl(cookieParams[0], cookieParams[1]);
+
+                        this.addCookie(httpCookie);
+                    });
+        }
+    }
+
+    @Override
+    public Map<String, String> getHeaders() {
+        return Collections.unmodifiableMap(headers);
+    }
+
+    @Override
+    public Map<String, String> getBodyParameters() {
+        return Collections.unmodifiableMap(bodyParameters);
+    }
+
+    @Override
+    public String getMethod() {
+        return method;
+    }
+
+    @Override
+    public void setMethod(String method) {
+        this.method = method;
+    }
+
+    @Override
+    public String getRequestUrl() {
+        return requestUrl;
+    }
+
+    @Override
+    public void setRequestUrl(String requestUrl) {
+        this.requestUrl = requestUrl;
+    }
+
+    @Override
+    public void addHeader(String header, String value) {
+        headers.put(header, value);
+    }
+
+    @Override
+    public void addBodyParameter(String parameter, String value) {
+        bodyParameters.put(parameter, value);
+    }
+
+    @Override
+    public boolean isResource() {
+        return requestUrl.contains(".");
+    }
+
+    @Override
+    public List<HttpCookie> getCookies() {
+        return Collections.unmodifiableList(this.cookies);
+    }
+
+    @Override
+    public void addCookie(HttpCookie cookie) {
+        this.cookies.add(cookie);
+    }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product name="Allopurinol" price="518.50" seller="null Mitchell"/>
+    <product name="Pleo Ginkgo" price="613.65" seller="Arthur Reynolds"/>
+    <product name="AVANDAMET" price="632.08" seller="Brenda Howell"/>
+    <product name="Isosorbide Mononitrate" price="789.91" seller="Gary Stevens"/>
+    <product name="Azithromycin" price="813.87" seller="Rachel Johnson"/>
+    <product name="Moore Medical Sinus Pain and Pressure Relief" price="855.39" seller="Gloria Alexander"/>
+    <product name="Care One Hemorrhoidal" price="932.18" seller="Chris Mitchell"/>
+    <product name="Dawn Ultra Antibacterial Hand" price="969.86" seller="Sarah Day"/>
+</products>

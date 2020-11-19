@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html" xmlns:ui="http://java.sun.com/jsf/facelets">
+
+<ui:composition template="templates/base-layout.xhtml">
+    <ui:define name="main-content">
+        <main>
+            <hr class="my-3"/>
+            <h1 class="text-center">Add Job</h1>
+            <hr class="hr-3"/>
+            <h:form class="mx-auto w-15">
+                <div class="form-group">
+                    <div class="label-holder d-flex justify-content-center">
+                        <h:outputLabel for="sector" class="h3 mb-2" value="Sector"/>
+                    </div>
+                    <h:inputText type="text" class="form-control" id="sector" name="sector"
+                                 value="#{jobRegisterBean.jobAppRegisterBindingModel.sector}"/>
+                </div>
+                <div class="form-group">
+                    <div class="label-holder d-flex justify-content-center">
+                        <h:outputLabel for="profession" class="h3 mb-2" value="Profession"/>
+                    </div>
+                    <h:inputText type="text" class="form-control" id="profession" name="profession"
+                                 value="#{jobRegisterBean.jobAppRegisterBindingModel.profession}"/>
+                </div>
+                <div class="form-group">
+                    <div class="label-holder d-flex justify-content-center">
+                        <h:outputLabel for="salary" class="h3 mb-2" value="Salary"/>
+                    </div>
+                    <h:inputText type="number" class="form-control" id="salary" name="salary"
+                                 value="#{jobRegisterBean.jobAppRegisterBindingModel.salary}"/>
+                </div>
+                <div class="form-group">
+                    <div class="label-holder d-flex justify-content-center">
+                        <label for="description" class="h3 mb-2">Description</label>
+                    </div>
+                    <h:inputTextarea rows="4" class="form-control" id="description" name="description"
+                                     value="#{jobRegisterBean.jobAppRegisterBindingModel.description}"/>
+                </div>
+                <div class="button-holder d-flex justify-content-center">
+                    <h:commandButton action="#{jobRegisterBean.register()}" type="submit" class="btn btn-info text-white" value="Register"/>
+                </div>
+            </h:form>
+            <hr class="my-3"/>
+        </main>
+    </ui:define>
+</ui:composition>
+
+</html>

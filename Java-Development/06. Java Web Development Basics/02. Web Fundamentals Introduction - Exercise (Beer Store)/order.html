@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style/form.css">
+    <title>SoftUni Beers</title>
+</head>
+<body>
+<nav>
+    <div class="topnav">
+        <a class="logo" href="index.html"><img src="images/logo.png"/></a>
+        <a href="index.html">Home</a>
+        <a href="all-beers.html">See all beers</a>
+        <a class="active" href="order.html">Order a beer</a>
+        <a class="right" href="register.html">Register</a>
+        <a class="right" href="login.html">Login</a>
+    </div>
+</nav>
+
+<main>
+    <center>
+        <h1>Order a Beer</h1>
+        <br/>
+        <form>
+            <label>Brand:</label>
+            <select>
+                <option selected disabled>Select a brand</option>
+                <option>Corona Extra 330ml</option>
+                <option>Stella Artois 330ml</option>
+                <option>Carlsberg 330ml</option>
+                <option>Heineken 330ml</option>
+            </select>
+            <label>Quantity:</label>
+            <input type="number" min="1" max="15" placeholder="Enter amount of beers (1-15)">
+            <label>Destination:</label>
+            <select>
+                <option selected disabled>Select a country</option>
+                <option>USA</option>
+                <option>Bulgaria</option>
+                <option>Germany</option>
+                <option>Poland</option>
+            </select>
+            <label>Enter your birthdate:</label>
+            <input type="date"/>
+            <label>Comments:</label>
+            <textarea cols="30" rows="10"></textarea>
+            <input type="submit" value="Submit your order" id="orderBtn"/>
+        </form>
+    </center>
+</main>
+
+<footer>
+    <hr/>
+    <p><em>&copy; 2017 &ndash; SoftUni Beers</em></p>
+</footer>
+</body>
+</html>

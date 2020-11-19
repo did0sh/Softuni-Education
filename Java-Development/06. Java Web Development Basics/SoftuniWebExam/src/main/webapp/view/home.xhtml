@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html" xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:c="http://java.sun.com/jsp/jstl/core" xmlns:fn="http://java.sun.com/jsp/jstl/functions">
+
+
+<ui:composition template="templates/base-layout.xhtml">
+    <ui:define name="main-content">
+        <main class="mt-3">
+            <hr class="bg-exodia hr-2"/>
+            <div class="print-container container-fluid">
+                <ui:repeat value="#{documentListViewBean.documentListViewModels}" var="model" varStatus="i">
+                    <h:outputText value="&lt;div class='row mb-4 d-flex justify-content-between'&gt;" escape="false"
+                                  rendered="#{i.index % 5 == 0}"/>
+                    <div class="print-scheduled col-md-2 bg-exodia rounded">
+                        <h5 class="text-center text-white font-weight-bold py-3 mt-3">
+                            #{fn:substring(model.title, 0, 12)}...
+                        </h5>
+                        <hr class="bg-white"/>
+                        <div class="buttons-holder w-75 mx-auto d-flex justify-content-between">
+                            <h:link outcome="print?id=#{model.id}"
+                                    class="btn bg-exodia text-white font-weight-bold mb-3" value="Print"/>
+                            <h:link outcome="details?id=#{model.id}"
+                                    class="btn bg-exodia text-white font-weight-bold mb-3"
+                                    value="Details"/>
+                        </div>
+                    </div>
+                    <h:outputText value="&lt;/div&gt;" escape="false"
+                                  rendered="#{i.index % 5 == 4}"/>
+                </ui:repeat>
+                <h:outputText value="&lt;/div&gt;" escape="false"
+                              rendered="#{documentListViewBean.documentListViewModels.size() % 5 != 0}"/>
+                <div class="print-scheduled col-md-2 bg-white rounded"></div>
+                <div class="print-scheduled col-md-2 bg-white rounded"></div>
+                <div class="print-scheduled col-md-2 bg-white rounded"></div>
+            </div>
+            <hr class="bg-exodia hr-2 mt-5"/>
+        </main>
+    </ui:define>
+</ui:composition>
+</html>

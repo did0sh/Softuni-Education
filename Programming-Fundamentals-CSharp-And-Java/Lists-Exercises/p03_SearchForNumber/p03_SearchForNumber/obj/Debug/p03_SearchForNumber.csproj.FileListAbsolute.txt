@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Exercises\p03_SearchForNumber\p03_SearchForNumber\bin\Debug\p03_SearchForNumber.exe.config
+C:\Users\user\source\repos\Lists-Exercises\p03_SearchForNumber\p03_SearchForNumber\bin\Debug\p03_SearchForNumber.exe
+C:\Users\user\source\repos\Lists-Exercises\p03_SearchForNumber\p03_SearchForNumber\bin\Debug\p03_SearchForNumber.pdb
+C:\Users\user\source\repos\Lists-Exercises\p03_SearchForNumber\p03_SearchForNumber\obj\Debug\p03_SearchForNumber.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Exercises\p03_SearchForNumber\p03_SearchForNumber\obj\Debug\p03_SearchForNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Exercises\p03_SearchForNumber\p03_SearchForNumber\obj\Debug\p03_SearchForNumber.exe
+C:\Users\user\source\repos\Lists-Exercises\p03_SearchForNumber\p03_SearchForNumber\obj\Debug\p03_SearchForNumber.pdb

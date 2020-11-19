@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended August\p04_TrainLands\p04_TrainLands\bin\Debug\p04_TrainLands.exe.config
+C:\Users\user\source\repos\Exam Extended August\p04_TrainLands\p04_TrainLands\bin\Debug\p04_TrainLands.exe
+C:\Users\user\source\repos\Exam Extended August\p04_TrainLands\p04_TrainLands\bin\Debug\p04_TrainLands.pdb
+C:\Users\user\source\repos\Exam Extended August\p04_TrainLands\p04_TrainLands\obj\Debug\p04_TrainLands.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended August\p04_TrainLands\p04_TrainLands\obj\Debug\p04_TrainLands.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended August\p04_TrainLands\p04_TrainLands\obj\Debug\p04_TrainLands.exe
+C:\Users\user\source\repos\Exam Extended August\p04_TrainLands\p04_TrainLands\obj\Debug\p04_TrainLands.pdb

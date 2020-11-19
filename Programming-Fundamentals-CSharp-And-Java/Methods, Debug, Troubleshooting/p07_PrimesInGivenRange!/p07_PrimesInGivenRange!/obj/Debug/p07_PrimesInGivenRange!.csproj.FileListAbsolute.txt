@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\p07_PrimesInGivenRange!\p07_PrimesInGivenRange!\bin\Debug\p07_PrimesInGivenRange!.exe.config
+C:\Users\user\source\repos\p07_PrimesInGivenRange!\p07_PrimesInGivenRange!\bin\Debug\p07_PrimesInGivenRange!.exe
+C:\Users\user\source\repos\p07_PrimesInGivenRange!\p07_PrimesInGivenRange!\bin\Debug\p07_PrimesInGivenRange!.pdb
+C:\Users\user\source\repos\p07_PrimesInGivenRange!\p07_PrimesInGivenRange!\obj\Debug\p07_PrimesInGivenRange!.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\p07_PrimesInGivenRange!\p07_PrimesInGivenRange!\obj\Debug\p07_PrimesInGivenRange!.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p07_PrimesInGivenRange!\p07_PrimesInGivenRange!\obj\Debug\p07_PrimesInGivenRange!.exe
+C:\Users\user\source\repos\p07_PrimesInGivenRange!\p07_PrimesInGivenRange!\obj\Debug\p07_PrimesInGivenRange!.pdb

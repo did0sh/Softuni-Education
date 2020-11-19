@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended May\p02_SpyGram\p02_SpyGram\bin\Debug\p02_SpyGram.exe.config
+C:\Users\user\source\repos\Exam Extended May\p02_SpyGram\p02_SpyGram\bin\Debug\p02_SpyGram.exe
+C:\Users\user\source\repos\Exam Extended May\p02_SpyGram\p02_SpyGram\bin\Debug\p02_SpyGram.pdb
+C:\Users\user\source\repos\Exam Extended May\p02_SpyGram\p02_SpyGram\obj\Debug\p02_SpyGram.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended May\p02_SpyGram\p02_SpyGram\obj\Debug\p02_SpyGram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended May\p02_SpyGram\p02_SpyGram\obj\Debug\p02_SpyGram.exe
+C:\Users\user\source\repos\Exam Extended May\p02_SpyGram\p02_SpyGram\obj\Debug\p02_SpyGram.pdb

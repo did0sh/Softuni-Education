@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Files & Exceptions - Lab\p03_WordCount\p03_WordCount\bin\Debug\p03_WordCount.exe.config
+C:\Users\user\source\repos\Files & Exceptions - Lab\p03_WordCount\p03_WordCount\bin\Debug\p03_WordCount.exe
+C:\Users\user\source\repos\Files & Exceptions - Lab\p03_WordCount\p03_WordCount\bin\Debug\p03_WordCount.pdb
+C:\Users\user\source\repos\Files & Exceptions - Lab\p03_WordCount\p03_WordCount\obj\Debug\p03_WordCount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Files & Exceptions - Lab\p03_WordCount\p03_WordCount\obj\Debug\p03_WordCount.exe
+C:\Users\user\source\repos\Files & Exceptions - Lab\p03_WordCount\p03_WordCount\obj\Debug\p03_WordCount.pdb

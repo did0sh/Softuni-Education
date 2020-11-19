@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Objects-Exercises\p02_AdvertisementMessage\p02_AdvertisementMessage\bin\Debug\p02_AdvertisementMessage.exe.config
+C:\Users\user\source\repos\Objects-Exercises\p02_AdvertisementMessage\p02_AdvertisementMessage\bin\Debug\p02_AdvertisementMessage.exe
+C:\Users\user\source\repos\Objects-Exercises\p02_AdvertisementMessage\p02_AdvertisementMessage\bin\Debug\p02_AdvertisementMessage.pdb
+C:\Users\user\source\repos\Objects-Exercises\p02_AdvertisementMessage\p02_AdvertisementMessage\obj\Debug\p02_AdvertisementMessage.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Objects-Exercises\p02_AdvertisementMessage\p02_AdvertisementMessage\obj\Debug\p02_AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Objects-Exercises\p02_AdvertisementMessage\p02_AdvertisementMessage\obj\Debug\p02_AdvertisementMessage.exe
+C:\Users\user\source\repos\Objects-Exercises\p02_AdvertisementMessage\p02_AdvertisementMessage\obj\Debug\p02_AdvertisementMessage.pdb

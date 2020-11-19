@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 4\p01_SweetDesserts\p01_SweetDesserts\obj\Debug\p01_SweetDesserts.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 4\p01_SweetDesserts\p01_SweetDesserts\obj\Debug\p01_SweetDesserts.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 4\p01_SweetDesserts\p01_SweetDesserts\bin\Debug\p01_SweetDesserts.exe.config
+C:\Users\user\source\repos\Exam Preparation 4\p01_SweetDesserts\p01_SweetDesserts\bin\Debug\p01_SweetDesserts.exe
+C:\Users\user\source\repos\Exam Preparation 4\p01_SweetDesserts\p01_SweetDesserts\bin\Debug\p01_SweetDesserts.pdb
+C:\Users\user\source\repos\Exam Preparation 4\p01_SweetDesserts\p01_SweetDesserts\obj\Debug\p01_SweetDesserts.exe
+C:\Users\user\source\repos\Exam Preparation 4\p01_SweetDesserts\p01_SweetDesserts\obj\Debug\p01_SweetDesserts.pdb

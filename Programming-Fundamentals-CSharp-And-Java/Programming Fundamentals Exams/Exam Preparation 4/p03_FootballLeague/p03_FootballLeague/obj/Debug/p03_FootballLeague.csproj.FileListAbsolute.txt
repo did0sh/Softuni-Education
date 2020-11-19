@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 4\p03_FootballLeague\p03_FootballLeague\bin\Debug\p03_FootballLeague.exe.config
+C:\Users\user\source\repos\Exam Preparation 4\p03_FootballLeague\p03_FootballLeague\bin\Debug\p03_FootballLeague.exe
+C:\Users\user\source\repos\Exam Preparation 4\p03_FootballLeague\p03_FootballLeague\bin\Debug\p03_FootballLeague.pdb
+C:\Users\user\source\repos\Exam Preparation 4\p03_FootballLeague\p03_FootballLeague\obj\Debug\p03_FootballLeague.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 4\p03_FootballLeague\p03_FootballLeague\obj\Debug\p03_FootballLeague.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 4\p03_FootballLeague\p03_FootballLeague\obj\Debug\p03_FootballLeague.exe
+C:\Users\user\source\repos\Exam Preparation 4\p03_FootballLeague\p03_FootballLeague\obj\Debug\p03_FootballLeague.pdb

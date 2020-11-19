@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Regex - Exercises\p03_CameraView\p03_CameraView\bin\Debug\p03_CameraView.exe.config
+C:\Users\user\source\repos\Regex - Exercises\p03_CameraView\p03_CameraView\bin\Debug\p03_CameraView.exe
+C:\Users\user\source\repos\Regex - Exercises\p03_CameraView\p03_CameraView\bin\Debug\p03_CameraView.pdb
+C:\Users\user\source\repos\Regex - Exercises\p03_CameraView\p03_CameraView\obj\Debug\p03_CameraView.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Regex - Exercises\p03_CameraView\p03_CameraView\obj\Debug\p03_CameraView.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Regex - Exercises\p03_CameraView\p03_CameraView\obj\Debug\p03_CameraView.exe
+C:\Users\user\source\repos\Regex - Exercises\p03_CameraView\p03_CameraView\obj\Debug\p03_CameraView.pdb

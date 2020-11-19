@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\problem18_BePositive\problem18_BePositive\bin\Debug\problem18_BePositive.exe.config
+C:\Users\user\source\repos\problem18_BePositive\problem18_BePositive\bin\Debug\problem18_BePositive.exe
+C:\Users\user\source\repos\problem18_BePositive\problem18_BePositive\bin\Debug\problem18_BePositive.pdb
+C:\Users\user\source\repos\problem18_BePositive\problem18_BePositive\obj\Debug\problem18_BePositive.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\problem18_BePositive\problem18_BePositive\obj\Debug\problem18_BePositive.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\problem18_BePositive\problem18_BePositive\obj\Debug\problem18_BePositive.exe
+C:\Users\user\source\repos\problem18_BePositive\problem18_BePositive\obj\Debug\problem18_BePositive.pdb

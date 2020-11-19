@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\RegEx - Lab\p06_ReplaceTag\p06_ReplaceTag\bin\Debug\p06_ReplaceTag.exe.config
+C:\Users\user\source\repos\RegEx - Lab\p06_ReplaceTag\p06_ReplaceTag\bin\Debug\p06_ReplaceTag.exe
+C:\Users\user\source\repos\RegEx - Lab\p06_ReplaceTag\p06_ReplaceTag\bin\Debug\p06_ReplaceTag.pdb
+C:\Users\user\source\repos\RegEx - Lab\p06_ReplaceTag\p06_ReplaceTag\obj\Debug\p06_ReplaceTag.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegEx - Lab\p06_ReplaceTag\p06_ReplaceTag\obj\Debug\p06_ReplaceTag.exe
+C:\Users\user\source\repos\RegEx - Lab\p06_ReplaceTag\p06_ReplaceTag\obj\Debug\p06_ReplaceTag.pdb

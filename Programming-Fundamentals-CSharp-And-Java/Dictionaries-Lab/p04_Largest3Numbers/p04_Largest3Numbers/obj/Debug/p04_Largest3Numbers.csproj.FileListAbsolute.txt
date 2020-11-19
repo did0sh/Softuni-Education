@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Dictionaries-Lab\p04_Largest3Numbers\p04_Largest3Numbers\bin\Debug\p04_Largest3Numbers.exe.config
+C:\Users\user\source\repos\Dictionaries-Lab\p04_Largest3Numbers\p04_Largest3Numbers\bin\Debug\p04_Largest3Numbers.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p04_Largest3Numbers\p04_Largest3Numbers\bin\Debug\p04_Largest3Numbers.pdb
+C:\Users\user\source\repos\Dictionaries-Lab\p04_Largest3Numbers\p04_Largest3Numbers\obj\Debug\p04_Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p04_Largest3Numbers\p04_Largest3Numbers\obj\Debug\p04_Largest3Numbers.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p04_Largest3Numbers\p04_Largest3Numbers\obj\Debug\p04_Largest3Numbers.pdb

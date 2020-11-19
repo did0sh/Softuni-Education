@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Lab\p07_CountNumbers\p07_CountNumbers\bin\Debug\p07_CountNumbers.exe.config
+C:\Users\user\source\repos\Lists-Lab\p07_CountNumbers\p07_CountNumbers\bin\Debug\p07_CountNumbers.exe
+C:\Users\user\source\repos\Lists-Lab\p07_CountNumbers\p07_CountNumbers\bin\Debug\p07_CountNumbers.pdb
+C:\Users\user\source\repos\Lists-Lab\p07_CountNumbers\p07_CountNumbers\obj\Debug\p07_CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Lab\p07_CountNumbers\p07_CountNumbers\obj\Debug\p07_CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Lab\p07_CountNumbers\p07_CountNumbers\obj\Debug\p07_CountNumbers.exe
+C:\Users\user\source\repos\Lists-Lab\p07_CountNumbers\p07_CountNumbers\obj\Debug\p07_CountNumbers.pdb

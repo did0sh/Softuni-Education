@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Lab\p04_SplitByWordCasing\p04_SplitByWordCasing\obj\Debug\p04_SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Lab\p04_SplitByWordCasing\p04_SplitByWordCasing\obj\Debug\p04_SplitByWordCasing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Lab\p04_SplitByWordCasing\p04_SplitByWordCasing\bin\Debug\p04_SplitByWordCasing.exe.config
+C:\Users\user\source\repos\Lists-Lab\p04_SplitByWordCasing\p04_SplitByWordCasing\bin\Debug\p04_SplitByWordCasing.exe
+C:\Users\user\source\repos\Lists-Lab\p04_SplitByWordCasing\p04_SplitByWordCasing\bin\Debug\p04_SplitByWordCasing.pdb
+C:\Users\user\source\repos\Lists-Lab\p04_SplitByWordCasing\p04_SplitByWordCasing\obj\Debug\p04_SplitByWordCasing.exe
+C:\Users\user\source\repos\Lists-Lab\p04_SplitByWordCasing\p04_SplitByWordCasing\obj\Debug\p04_SplitByWordCasing.pdb

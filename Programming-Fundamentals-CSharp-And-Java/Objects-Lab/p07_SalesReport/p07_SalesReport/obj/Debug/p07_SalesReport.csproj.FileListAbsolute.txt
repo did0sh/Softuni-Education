@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Objects-Lab\p07_SalesReport\p07_SalesReport\bin\Debug\p07_SalesReport.exe.config
+C:\Users\user\source\repos\Objects-Lab\p07_SalesReport\p07_SalesReport\bin\Debug\p07_SalesReport.exe
+C:\Users\user\source\repos\Objects-Lab\p07_SalesReport\p07_SalesReport\bin\Debug\p07_SalesReport.pdb
+C:\Users\user\source\repos\Objects-Lab\p07_SalesReport\p07_SalesReport\obj\Debug\p07_SalesReport.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Objects-Lab\p07_SalesReport\p07_SalesReport\obj\Debug\p07_SalesReport.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Objects-Lab\p07_SalesReport\p07_SalesReport\obj\Debug\p07_SalesReport.exe
+C:\Users\user\source\repos\Objects-Lab\p07_SalesReport\p07_SalesReport\obj\Debug\p07_SalesReport.pdb

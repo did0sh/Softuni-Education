@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\p01_ConvertFromBase-10ToBase-N\p01_ConvertFromBase-10ToBase-N\bin\Debug\p01_ConvertFromBase-10ToBase-N.exe.config
+C:\Users\user\source\repos\p01_ConvertFromBase-10ToBase-N\p01_ConvertFromBase-10ToBase-N\bin\Debug\p01_ConvertFromBase-10ToBase-N.exe
+C:\Users\user\source\repos\p01_ConvertFromBase-10ToBase-N\p01_ConvertFromBase-10ToBase-N\bin\Debug\p01_ConvertFromBase-10ToBase-N.pdb
+C:\Users\user\source\repos\p01_ConvertFromBase-10ToBase-N\p01_ConvertFromBase-10ToBase-N\obj\Debug\p01_ConvertFromBase-10ToBase-N.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\p01_ConvertFromBase-10ToBase-N\p01_ConvertFromBase-10ToBase-N\obj\Debug\p01_ConvertFromBase-10ToBase-N.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p01_ConvertFromBase-10ToBase-N\p01_ConvertFromBase-10ToBase-N\obj\Debug\p01_ConvertFromBase-10ToBase-N.exe
+C:\Users\user\source\repos\p01_ConvertFromBase-10ToBase-N\p01_ConvertFromBase-10ToBase-N\obj\Debug\p01_ConvertFromBase-10ToBase-N.pdb

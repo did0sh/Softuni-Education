@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended September\p04_CodePhoenix\p04_CodePhoenix\bin\Debug\p04_CodePhoenix.exe.config
+C:\Users\user\source\repos\Exam Extended September\p04_CodePhoenix\p04_CodePhoenix\bin\Debug\p04_CodePhoenix.exe
+C:\Users\user\source\repos\Exam Extended September\p04_CodePhoenix\p04_CodePhoenix\bin\Debug\p04_CodePhoenix.pdb
+C:\Users\user\source\repos\Exam Extended September\p04_CodePhoenix\p04_CodePhoenix\obj\Debug\p04_CodePhoenix.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended September\p04_CodePhoenix\p04_CodePhoenix\obj\Debug\p04_CodePhoenix.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended September\p04_CodePhoenix\p04_CodePhoenix\obj\Debug\p04_CodePhoenix.exe
+C:\Users\user\source\repos\Exam Extended September\p04_CodePhoenix\p04_CodePhoenix\obj\Debug\p04_CodePhoenix.pdb

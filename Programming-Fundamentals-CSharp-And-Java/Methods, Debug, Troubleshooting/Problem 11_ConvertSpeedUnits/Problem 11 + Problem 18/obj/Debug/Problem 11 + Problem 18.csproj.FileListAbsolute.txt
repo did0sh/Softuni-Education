@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Problem 11 + Problem 18\Problem 11 + Problem 18\bin\Debug\Problem 11 + Problem 18.exe.config
+C:\Users\user\source\repos\Problem 11 + Problem 18\Problem 11 + Problem 18\bin\Debug\Problem 11 + Problem 18.exe
+C:\Users\user\source\repos\Problem 11 + Problem 18\Problem 11 + Problem 18\bin\Debug\Problem 11 + Problem 18.pdb
+C:\Users\user\source\repos\Problem 11 + Problem 18\Problem 11 + Problem 18\obj\Debug\Problem 11 + Problem 18.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Problem 11 + Problem 18\Problem 11 + Problem 18\obj\Debug\Problem 11 + Problem 18.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Problem 11 + Problem 18\Problem 11 + Problem 18\obj\Debug\Problem 11 + Problem 18.exe
+C:\Users\user\source\repos\Problem 11 + Problem 18\Problem 11 + Problem 18\obj\Debug\Problem 11 + Problem 18.pdb

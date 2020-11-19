@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\p11_GeometryCalculator\p11_GeometryCalculator\bin\Debug\p11_GeometryCalculator.exe.config
+C:\Users\user\source\repos\p11_GeometryCalculator\p11_GeometryCalculator\bin\Debug\p11_GeometryCalculator.exe
+C:\Users\user\source\repos\p11_GeometryCalculator\p11_GeometryCalculator\bin\Debug\p11_GeometryCalculator.pdb
+C:\Users\user\source\repos\p11_GeometryCalculator\p11_GeometryCalculator\obj\Debug\p11_GeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p11_GeometryCalculator\p11_GeometryCalculator\obj\Debug\p11_GeometryCalculator.exe
+C:\Users\user\source\repos\p11_GeometryCalculator\p11_GeometryCalculator\obj\Debug\p11_GeometryCalculator.pdb

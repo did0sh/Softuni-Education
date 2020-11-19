@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\RegEx - Lab\p02_MatchPhoneNumber\p02_MatchPhoneNumber\bin\Debug\p02_MatchPhoneNumber.exe.config
+C:\Users\user\source\repos\RegEx - Lab\p02_MatchPhoneNumber\p02_MatchPhoneNumber\bin\Debug\p02_MatchPhoneNumber.exe
+C:\Users\user\source\repos\RegEx - Lab\p02_MatchPhoneNumber\p02_MatchPhoneNumber\bin\Debug\p02_MatchPhoneNumber.pdb
+C:\Users\user\source\repos\RegEx - Lab\p02_MatchPhoneNumber\p02_MatchPhoneNumber\obj\Debug\p02_MatchPhoneNumber.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\RegEx - Lab\p02_MatchPhoneNumber\p02_MatchPhoneNumber\obj\Debug\p02_MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegEx - Lab\p02_MatchPhoneNumber\p02_MatchPhoneNumber\obj\Debug\p02_MatchPhoneNumber.exe
+C:\Users\user\source\repos\RegEx - Lab\p02_MatchPhoneNumber\p02_MatchPhoneNumber\obj\Debug\p02_MatchPhoneNumber.pdb

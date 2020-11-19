@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam 26 February 2017\p04_HornetArmada\p04_HornetArmada\obj\Debug\p04_HornetArmada.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam 26 February 2017\p04_HornetArmada\p04_HornetArmada\obj\Debug\p04_HornetArmada.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam 26 February 2017\p04_HornetArmada\p04_HornetArmada\bin\Debug\p04_HornetArmada.exe.config
+C:\Users\user\source\repos\Exam 26 February 2017\p04_HornetArmada\p04_HornetArmada\bin\Debug\p04_HornetArmada.exe
+C:\Users\user\source\repos\Exam 26 February 2017\p04_HornetArmada\p04_HornetArmada\bin\Debug\p04_HornetArmada.pdb
+C:\Users\user\source\repos\Exam 26 February 2017\p04_HornetArmada\p04_HornetArmada\obj\Debug\p04_HornetArmada.exe
+C:\Users\user\source\repos\Exam 26 February 2017\p04_HornetArmada\p04_HornetArmada\obj\Debug\p04_HornetArmada.pdb

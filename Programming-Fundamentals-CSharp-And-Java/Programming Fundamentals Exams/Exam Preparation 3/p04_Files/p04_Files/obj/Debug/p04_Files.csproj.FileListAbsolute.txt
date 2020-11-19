@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 3\p04_Files\p04_Files\bin\Debug\p04_Files.exe.config
+C:\Users\user\source\repos\Exam Preparation 3\p04_Files\p04_Files\bin\Debug\p04_Files.exe
+C:\Users\user\source\repos\Exam Preparation 3\p04_Files\p04_Files\bin\Debug\p04_Files.pdb
+C:\Users\user\source\repos\Exam Preparation 3\p04_Files\p04_Files\obj\Debug\p04_Files.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 3\p04_Files\p04_Files\obj\Debug\p04_Files.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 3\p04_Files\p04_Files\obj\Debug\p04_Files.exe
+C:\Users\user\source\repos\Exam Preparation 3\p04_Files\p04_Files\obj\Debug\p04_Files.pdb

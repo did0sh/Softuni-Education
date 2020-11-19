@@ -1,0 +1,7 @@
+c:\users\user\source\repos\p10_DebugCode\p10_DebugCode\bin\Debug\p10_DebugCode.exe.config
+c:\users\user\source\repos\p10_DebugCode\p10_DebugCode\bin\Debug\p10_DebugCode.exe
+c:\users\user\source\repos\p10_DebugCode\p10_DebugCode\bin\Debug\p10_DebugCode.pdb
+c:\users\user\source\repos\p10_DebugCode\p10_DebugCode\obj\Debug\p10_DebugCode.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\p10_DebugCode\p10_DebugCode\obj\Debug\p10_DebugCode.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\p10_DebugCode\p10_DebugCode\obj\Debug\p10_DebugCode.exe
+c:\users\user\source\repos\p10_DebugCode\p10_DebugCode\obj\Debug\p10_DebugCode.pdb

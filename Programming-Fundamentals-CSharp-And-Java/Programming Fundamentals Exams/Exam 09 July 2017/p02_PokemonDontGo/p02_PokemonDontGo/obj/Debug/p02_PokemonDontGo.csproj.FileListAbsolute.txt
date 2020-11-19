@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam 09 July 2017\p02_PokemonDontGo\p02_PokemonDontGo\bin\Debug\p02_PokemonDontGo.exe.config
+C:\Users\user\source\repos\Exam 09 July 2017\p02_PokemonDontGo\p02_PokemonDontGo\bin\Debug\p02_PokemonDontGo.exe
+C:\Users\user\source\repos\Exam 09 July 2017\p02_PokemonDontGo\p02_PokemonDontGo\bin\Debug\p02_PokemonDontGo.pdb
+C:\Users\user\source\repos\Exam 09 July 2017\p02_PokemonDontGo\p02_PokemonDontGo\obj\Debug\p02_PokemonDontGo.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam 09 July 2017\p02_PokemonDontGo\p02_PokemonDontGo\obj\Debug\p02_PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam 09 July 2017\p02_PokemonDontGo\p02_PokemonDontGo\obj\Debug\p02_PokemonDontGo.exe
+C:\Users\user\source\repos\Exam 09 July 2017\p02_PokemonDontGo\p02_PokemonDontGo\obj\Debug\p02_PokemonDontGo.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\String and TextProcessing - Lab\p04_Palindromes\p04_Palindromes\bin\Debug\p04_Palindromes.exe.config
+C:\Users\user\source\repos\String and TextProcessing - Lab\p04_Palindromes\p04_Palindromes\bin\Debug\p04_Palindromes.exe
+C:\Users\user\source\repos\String and TextProcessing - Lab\p04_Palindromes\p04_Palindromes\bin\Debug\p04_Palindromes.pdb
+C:\Users\user\source\repos\String and TextProcessing - Lab\p04_Palindromes\p04_Palindromes\obj\Debug\p04_Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\String and TextProcessing - Lab\p04_Palindromes\p04_Palindromes\obj\Debug\p04_Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\String and TextProcessing - Lab\p04_Palindromes\p04_Palindromes\obj\Debug\p04_Palindromes.exe
+C:\Users\user\source\repos\String and TextProcessing - Lab\p04_Palindromes\p04_Palindromes\obj\Debug\p04_Palindromes.pdb

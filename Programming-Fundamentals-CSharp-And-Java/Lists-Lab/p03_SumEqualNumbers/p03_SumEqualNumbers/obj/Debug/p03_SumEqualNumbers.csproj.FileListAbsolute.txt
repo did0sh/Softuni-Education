@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Lab\p03_SumEqualNumbers\p03_SumEqualNumbers\bin\Debug\p03_SumEqualNumbers.exe.config
+C:\Users\user\source\repos\Lists-Lab\p03_SumEqualNumbers\p03_SumEqualNumbers\bin\Debug\p03_SumEqualNumbers.exe
+C:\Users\user\source\repos\Lists-Lab\p03_SumEqualNumbers\p03_SumEqualNumbers\bin\Debug\p03_SumEqualNumbers.pdb
+C:\Users\user\source\repos\Lists-Lab\p03_SumEqualNumbers\p03_SumEqualNumbers\obj\Debug\p03_SumEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Lab\p03_SumEqualNumbers\p03_SumEqualNumbers\obj\Debug\p03_SumEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Lab\p03_SumEqualNumbers\p03_SumEqualNumbers\obj\Debug\p03_SumEqualNumbers.exe
+C:\Users\user\source\repos\Lists-Lab\p03_SumEqualNumbers\p03_SumEqualNumbers\obj\Debug\p03_SumEqualNumbers.pdb

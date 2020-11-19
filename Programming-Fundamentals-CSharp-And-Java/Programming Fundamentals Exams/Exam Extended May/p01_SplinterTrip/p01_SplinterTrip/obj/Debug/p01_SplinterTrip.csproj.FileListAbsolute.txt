@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended May\p01_SplinterTrip\p01_SplinterTrip\bin\Debug\p01_SplinterTrip.exe.config
+C:\Users\user\source\repos\Exam Extended May\p01_SplinterTrip\p01_SplinterTrip\bin\Debug\p01_SplinterTrip.exe
+C:\Users\user\source\repos\Exam Extended May\p01_SplinterTrip\p01_SplinterTrip\bin\Debug\p01_SplinterTrip.pdb
+C:\Users\user\source\repos\Exam Extended May\p01_SplinterTrip\p01_SplinterTrip\obj\Debug\p01_SplinterTrip.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended May\p01_SplinterTrip\p01_SplinterTrip\obj\Debug\p01_SplinterTrip.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended May\p01_SplinterTrip\p01_SplinterTrip\obj\Debug\p01_SplinterTrip.exe
+C:\Users\user\source\repos\Exam Extended May\p01_SplinterTrip\p01_SplinterTrip\obj\Debug\p01_SplinterTrip.pdb

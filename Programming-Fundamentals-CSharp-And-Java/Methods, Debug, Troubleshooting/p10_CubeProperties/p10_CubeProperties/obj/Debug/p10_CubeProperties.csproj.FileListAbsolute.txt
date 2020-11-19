@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\p10_CubeProperties\p10_CubeProperties\bin\Debug\p10_CubeProperties.exe.config
+C:\Users\user\source\repos\p10_CubeProperties\p10_CubeProperties\bin\Debug\p10_CubeProperties.exe
+C:\Users\user\source\repos\p10_CubeProperties\p10_CubeProperties\bin\Debug\p10_CubeProperties.pdb
+C:\Users\user\source\repos\p10_CubeProperties\p10_CubeProperties\obj\Debug\p10_CubeProperties.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\p10_CubeProperties\p10_CubeProperties\obj\Debug\p10_CubeProperties.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p10_CubeProperties\p10_CubeProperties\obj\Debug\p10_CubeProperties.exe
+C:\Users\user\source\repos\p10_CubeProperties\p10_CubeProperties\obj\Debug\p10_CubeProperties.pdb

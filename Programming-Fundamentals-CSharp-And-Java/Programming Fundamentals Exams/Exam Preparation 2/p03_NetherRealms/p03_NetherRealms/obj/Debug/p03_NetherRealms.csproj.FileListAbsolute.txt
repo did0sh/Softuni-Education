@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 2\p03_NetherRealms\p03_NetherRealms\bin\Debug\p03_NetherRealms.exe.config
+C:\Users\user\source\repos\Exam Preparation 2\p03_NetherRealms\p03_NetherRealms\bin\Debug\p03_NetherRealms.exe
+C:\Users\user\source\repos\Exam Preparation 2\p03_NetherRealms\p03_NetherRealms\bin\Debug\p03_NetherRealms.pdb
+C:\Users\user\source\repos\Exam Preparation 2\p03_NetherRealms\p03_NetherRealms\obj\Debug\p03_NetherRealms.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 2\p03_NetherRealms\p03_NetherRealms\obj\Debug\p03_NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 2\p03_NetherRealms\p03_NetherRealms\obj\Debug\p03_NetherRealms.exe
+C:\Users\user\source\repos\Exam Preparation 2\p03_NetherRealms\p03_NetherRealms\obj\Debug\p03_NetherRealms.pdb

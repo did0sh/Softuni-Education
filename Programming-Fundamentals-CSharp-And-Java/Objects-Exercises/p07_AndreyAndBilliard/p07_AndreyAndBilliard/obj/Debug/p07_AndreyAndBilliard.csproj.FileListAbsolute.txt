@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Objects-Exercises\p07_AndreyAndBilliard\p07_AndreyAndBilliard\bin\Debug\p07_AndreyAndBilliard.exe.config
+C:\Users\user\source\repos\Objects-Exercises\p07_AndreyAndBilliard\p07_AndreyAndBilliard\bin\Debug\p07_AndreyAndBilliard.exe
+C:\Users\user\source\repos\Objects-Exercises\p07_AndreyAndBilliard\p07_AndreyAndBilliard\bin\Debug\p07_AndreyAndBilliard.pdb
+C:\Users\user\source\repos\Objects-Exercises\p07_AndreyAndBilliard\p07_AndreyAndBilliard\obj\Debug\p07_AndreyAndBilliard.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Objects-Exercises\p07_AndreyAndBilliard\p07_AndreyAndBilliard\obj\Debug\p07_AndreyAndBilliard.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Objects-Exercises\p07_AndreyAndBilliard\p07_AndreyAndBilliard\obj\Debug\p07_AndreyAndBilliard.exe
+C:\Users\user\source\repos\Objects-Exercises\p07_AndreyAndBilliard\p07_AndreyAndBilliard\obj\Debug\p07_AndreyAndBilliard.pdb

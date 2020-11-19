@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Objects-Exercises\p04_AverageGrades\p04_AverageGrades\bin\Debug\p04_AverageGrades.exe.config
+C:\Users\user\source\repos\Objects-Exercises\p04_AverageGrades\p04_AverageGrades\bin\Debug\p04_AverageGrades.exe
+C:\Users\user\source\repos\Objects-Exercises\p04_AverageGrades\p04_AverageGrades\bin\Debug\p04_AverageGrades.pdb
+C:\Users\user\source\repos\Objects-Exercises\p04_AverageGrades\p04_AverageGrades\obj\Debug\p04_AverageGrades.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Objects-Exercises\p04_AverageGrades\p04_AverageGrades\obj\Debug\p04_AverageGrades.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Objects-Exercises\p04_AverageGrades\p04_AverageGrades\obj\Debug\p04_AverageGrades.exe
+C:\Users\user\source\repos\Objects-Exercises\p04_AverageGrades\p04_AverageGrades\obj\Debug\p04_AverageGrades.pdb

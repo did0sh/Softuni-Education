@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arrays-Lab\p01_DayOfWeek\p01_DayOfWeek\bin\Debug\p01_DayOfWeek.exe.config
+C:\Users\user\source\repos\Arrays-Lab\p01_DayOfWeek\p01_DayOfWeek\bin\Debug\p01_DayOfWeek.exe
+C:\Users\user\source\repos\Arrays-Lab\p01_DayOfWeek\p01_DayOfWeek\bin\Debug\p01_DayOfWeek.pdb
+C:\Users\user\source\repos\Arrays-Lab\p01_DayOfWeek\p01_DayOfWeek\obj\Debug\p01_DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays-Lab\p01_DayOfWeek\p01_DayOfWeek\obj\Debug\p01_DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Lab\p01_DayOfWeek\p01_DayOfWeek\obj\Debug\p01_DayOfWeek.exe
+C:\Users\user\source\repos\Arrays-Lab\p01_DayOfWeek\p01_DayOfWeek\obj\Debug\p01_DayOfWeek.pdb

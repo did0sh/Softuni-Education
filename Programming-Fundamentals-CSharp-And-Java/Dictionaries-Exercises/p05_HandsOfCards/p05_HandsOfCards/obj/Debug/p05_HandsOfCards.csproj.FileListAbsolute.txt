@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Exercises\p05_HandsOfCards\p05_HandsOfCards\bin\Debug\p05_HandsOfCards.exe.config
+C:\Users\user\source\repos\Dictionaries-Exercises\p05_HandsOfCards\p05_HandsOfCards\bin\Debug\p05_HandsOfCards.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p05_HandsOfCards\p05_HandsOfCards\bin\Debug\p05_HandsOfCards.pdb
+C:\Users\user\source\repos\Dictionaries-Exercises\p05_HandsOfCards\p05_HandsOfCards\obj\Debug\p05_HandsOfCards.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p05_HandsOfCards\p05_HandsOfCards\obj\Debug\p05_HandsOfCards.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p05_HandsOfCards\p05_HandsOfCards\obj\Debug\p05_HandsOfCards.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p05_HandsOfCards\p05_HandsOfCards\obj\Debug\p05_HandsOfCards.pdb

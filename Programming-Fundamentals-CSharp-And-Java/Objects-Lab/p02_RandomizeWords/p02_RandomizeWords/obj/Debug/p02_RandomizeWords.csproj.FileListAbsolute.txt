@@ -1,0 +1,7 @@
+C:\Users\user\source\Objects-Lab\p02_RandomizeWords\p02_RandomizeWords\bin\Debug\p02_RandomizeWords.exe.config
+C:\Users\user\source\Objects-Lab\p02_RandomizeWords\p02_RandomizeWords\bin\Debug\p02_RandomizeWords.exe
+C:\Users\user\source\Objects-Lab\p02_RandomizeWords\p02_RandomizeWords\bin\Debug\p02_RandomizeWords.pdb
+C:\Users\user\source\Objects-Lab\p02_RandomizeWords\p02_RandomizeWords\obj\Debug\p02_RandomizeWords.csprojResolveAssemblyReference.cache
+C:\Users\user\source\Objects-Lab\p02_RandomizeWords\p02_RandomizeWords\obj\Debug\p02_RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\user\source\Objects-Lab\p02_RandomizeWords\p02_RandomizeWords\obj\Debug\p02_RandomizeWords.exe
+C:\Users\user\source\Objects-Lab\p02_RandomizeWords\p02_RandomizeWords\obj\Debug\p02_RandomizeWords.pdb

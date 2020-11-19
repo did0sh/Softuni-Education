@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam 26 February 2017\p02_HornetComm\p02_HornetComm\bin\Debug\p02_HornetComm.exe.config
+C:\Users\user\source\repos\Exam 26 February 2017\p02_HornetComm\p02_HornetComm\bin\Debug\p02_HornetComm.exe
+C:\Users\user\source\repos\Exam 26 February 2017\p02_HornetComm\p02_HornetComm\bin\Debug\p02_HornetComm.pdb
+C:\Users\user\source\repos\Exam 26 February 2017\p02_HornetComm\p02_HornetComm\obj\Debug\p02_HornetComm.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam 26 February 2017\p02_HornetComm\p02_HornetComm\obj\Debug\p02_HornetComm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam 26 February 2017\p02_HornetComm\p02_HornetComm\obj\Debug\p02_HornetComm.exe
+C:\Users\user\source\repos\Exam 26 February 2017\p02_HornetComm\p02_HornetComm\obj\Debug\p02_HornetComm.pdb

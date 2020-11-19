@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Exercises\p09_LegendaryFarming\p09_LegendaryFarming\bin\Debug\p09_LegendaryFarming.exe.config
+C:\Users\user\source\repos\Dictionaries-Exercises\p09_LegendaryFarming\p09_LegendaryFarming\bin\Debug\p09_LegendaryFarming.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p09_LegendaryFarming\p09_LegendaryFarming\bin\Debug\p09_LegendaryFarming.pdb
+C:\Users\user\source\repos\Dictionaries-Exercises\p09_LegendaryFarming\p09_LegendaryFarming\obj\Debug\p09_LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p09_LegendaryFarming\p09_LegendaryFarming\obj\Debug\p09_LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p09_LegendaryFarming\p09_LegendaryFarming\obj\Debug\p09_LegendaryFarming.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p09_LegendaryFarming\p09_LegendaryFarming\obj\Debug\p09_LegendaryFarming.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Lab\p01_CountRealNumbers\p01_CountRealNumbers\bin\Debug\p01_CountRealNumbers.exe.config
+C:\Users\user\source\repos\Dictionaries-Lab\p01_CountRealNumbers\p01_CountRealNumbers\bin\Debug\p01_CountRealNumbers.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p01_CountRealNumbers\p01_CountRealNumbers\bin\Debug\p01_CountRealNumbers.pdb
+C:\Users\user\source\repos\Dictionaries-Lab\p01_CountRealNumbers\p01_CountRealNumbers\obj\Debug\p01_CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p01_CountRealNumbers\p01_CountRealNumbers\obj\Debug\p01_CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p01_CountRealNumbers\p01_CountRealNumbers\obj\Debug\p01_CountRealNumbers.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p01_CountRealNumbers\p01_CountRealNumbers\obj\Debug\p01_CountRealNumbers.pdb

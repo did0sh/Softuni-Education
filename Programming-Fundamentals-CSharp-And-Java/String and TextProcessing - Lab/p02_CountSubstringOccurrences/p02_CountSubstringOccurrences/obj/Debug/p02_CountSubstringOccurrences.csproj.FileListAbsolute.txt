@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\String and TextProcessing - Lab\p02_CountSubstringOccurrences\p02_CountSubstringOccurrences\bin\Debug\p02_CountSubstringOccurrences.exe.config
+C:\Users\user\source\repos\String and TextProcessing - Lab\p02_CountSubstringOccurrences\p02_CountSubstringOccurrences\bin\Debug\p02_CountSubstringOccurrences.exe
+C:\Users\user\source\repos\String and TextProcessing - Lab\p02_CountSubstringOccurrences\p02_CountSubstringOccurrences\bin\Debug\p02_CountSubstringOccurrences.pdb
+C:\Users\user\source\repos\String and TextProcessing - Lab\p02_CountSubstringOccurrences\p02_CountSubstringOccurrences\obj\Debug\p02_CountSubstringOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\String and TextProcessing - Lab\p02_CountSubstringOccurrences\p02_CountSubstringOccurrences\obj\Debug\p02_CountSubstringOccurrences.exe
+C:\Users\user\source\repos\String and TextProcessing - Lab\p02_CountSubstringOccurrences\p02_CountSubstringOccurrences\obj\Debug\p02_CountSubstringOccurrences.pdb

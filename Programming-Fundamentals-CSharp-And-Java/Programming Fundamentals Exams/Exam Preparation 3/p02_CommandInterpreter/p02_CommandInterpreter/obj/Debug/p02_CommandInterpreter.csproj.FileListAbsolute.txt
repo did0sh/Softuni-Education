@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 3\p02_CommandInterpreter\p02_CommandInterpreter\bin\Debug\p02_CommandInterpreter.exe.config
+C:\Users\user\source\repos\Exam Preparation 3\p02_CommandInterpreter\p02_CommandInterpreter\bin\Debug\p02_CommandInterpreter.exe
+C:\Users\user\source\repos\Exam Preparation 3\p02_CommandInterpreter\p02_CommandInterpreter\bin\Debug\p02_CommandInterpreter.pdb
+C:\Users\user\source\repos\Exam Preparation 3\p02_CommandInterpreter\p02_CommandInterpreter\obj\Debug\p02_CommandInterpreter.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 3\p02_CommandInterpreter\p02_CommandInterpreter\obj\Debug\p02_CommandInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 3\p02_CommandInterpreter\p02_CommandInterpreter\obj\Debug\p02_CommandInterpreter.exe
+C:\Users\user\source\repos\Exam Preparation 3\p02_CommandInterpreter\p02_CommandInterpreter\obj\Debug\p02_CommandInterpreter.pdb

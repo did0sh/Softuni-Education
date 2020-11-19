@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended May\p04_NSA\p04_NSA\bin\Debug\p04_NSA.exe.config
+C:\Users\user\source\repos\Exam Extended May\p04_NSA\p04_NSA\bin\Debug\p04_NSA.exe
+C:\Users\user\source\repos\Exam Extended May\p04_NSA\p04_NSA\bin\Debug\p04_NSA.pdb
+C:\Users\user\source\repos\Exam Extended May\p04_NSA\p04_NSA\obj\Debug\p04_NSA.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended May\p04_NSA\p04_NSA\obj\Debug\p04_NSA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended May\p04_NSA\p04_NSA\obj\Debug\p04_NSA.exe
+C:\Users\user\source\repos\Exam Extended May\p04_NSA\p04_NSA\obj\Debug\p04_NSA.pdb

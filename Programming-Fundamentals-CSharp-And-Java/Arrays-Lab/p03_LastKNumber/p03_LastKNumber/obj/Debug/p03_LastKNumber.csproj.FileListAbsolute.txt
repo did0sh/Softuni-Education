@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arrays-Lab\p03_LastKNumber\p03_LastKNumber\bin\Debug\p03_LastKNumber.exe.config
+C:\Users\user\source\repos\Arrays-Lab\p03_LastKNumber\p03_LastKNumber\bin\Debug\p03_LastKNumber.exe
+C:\Users\user\source\repos\Arrays-Lab\p03_LastKNumber\p03_LastKNumber\bin\Debug\p03_LastKNumber.pdb
+C:\Users\user\source\repos\Arrays-Lab\p03_LastKNumber\p03_LastKNumber\obj\Debug\p03_LastKNumber.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays-Lab\p03_LastKNumber\p03_LastKNumber\obj\Debug\p03_LastKNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Lab\p03_LastKNumber\p03_LastKNumber\obj\Debug\p03_LastKNumber.exe
+C:\Users\user\source\repos\Arrays-Lab\p03_LastKNumber\p03_LastKNumber\obj\Debug\p03_LastKNumber.pdb

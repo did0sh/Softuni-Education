@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Objects-Exercises\p08_MentorGroup\p08_MentorGroup\bin\Debug\p08_MentorGroup.exe.config
+C:\Users\user\source\repos\Objects-Exercises\p08_MentorGroup\p08_MentorGroup\bin\Debug\p08_MentorGroup.exe
+C:\Users\user\source\repos\Objects-Exercises\p08_MentorGroup\p08_MentorGroup\bin\Debug\p08_MentorGroup.pdb
+C:\Users\user\source\repos\Objects-Exercises\p08_MentorGroup\p08_MentorGroup\obj\Debug\p08_MentorGroup.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Objects-Exercises\p08_MentorGroup\p08_MentorGroup\obj\Debug\p08_MentorGroup.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Objects-Exercises\p08_MentorGroup\p08_MentorGroup\obj\Debug\p08_MentorGroup.exe
+C:\Users\user\source\repos\Objects-Exercises\p08_MentorGroup\p08_MentorGroup\obj\Debug\p08_MentorGroup.pdb

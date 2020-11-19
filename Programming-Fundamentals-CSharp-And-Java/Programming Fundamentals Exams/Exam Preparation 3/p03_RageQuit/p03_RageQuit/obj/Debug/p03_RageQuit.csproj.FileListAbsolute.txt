@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Softuni\Programming Fundamentals\Exam Preparation 3\p03_RageQuit\p03_RageQuit\bin\Debug\p03_RageQuit.exe.config
+C:\Users\user\Documents\Softuni\Programming Fundamentals\Exam Preparation 3\p03_RageQuit\p03_RageQuit\bin\Debug\p03_RageQuit.exe
+C:\Users\user\Documents\Softuni\Programming Fundamentals\Exam Preparation 3\p03_RageQuit\p03_RageQuit\bin\Debug\p03_RageQuit.pdb
+C:\Users\user\Documents\Softuni\Programming Fundamentals\Exam Preparation 3\p03_RageQuit\p03_RageQuit\obj\Debug\p03_RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Softuni\Programming Fundamentals\Exam Preparation 3\p03_RageQuit\p03_RageQuit\obj\Debug\p03_RageQuit.exe
+C:\Users\user\Documents\Softuni\Programming Fundamentals\Exam Preparation 3\p03_RageQuit\p03_RageQuit\obj\Debug\p03_RageQuit.pdb

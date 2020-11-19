@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\RegEx - Lab\p05_MatchNumbers\p05_MatchNumbers\bin\Debug\p05_MatchNumbers.exe.config
+C:\Users\user\source\repos\RegEx - Lab\p05_MatchNumbers\p05_MatchNumbers\bin\Debug\p05_MatchNumbers.exe
+C:\Users\user\source\repos\RegEx - Lab\p05_MatchNumbers\p05_MatchNumbers\bin\Debug\p05_MatchNumbers.pdb
+C:\Users\user\source\repos\RegEx - Lab\p05_MatchNumbers\p05_MatchNumbers\obj\Debug\p05_MatchNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\RegEx - Lab\p05_MatchNumbers\p05_MatchNumbers\obj\Debug\p05_MatchNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegEx - Lab\p05_MatchNumbers\p05_MatchNumbers\obj\Debug\p05_MatchNumbers.exe
+C:\Users\user\source\repos\RegEx - Lab\p05_MatchNumbers\p05_MatchNumbers\obj\Debug\p05_MatchNumbers.pdb

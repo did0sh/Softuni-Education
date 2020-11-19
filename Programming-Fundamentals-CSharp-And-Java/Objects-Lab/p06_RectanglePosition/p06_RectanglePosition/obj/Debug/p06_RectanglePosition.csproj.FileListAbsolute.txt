@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Objects-Lab\p06_RectanglePosition\p06_RectanglePosition\bin\Debug\p06_RectanglePosition.exe.config
+C:\Users\user\source\repos\Objects-Lab\p06_RectanglePosition\p06_RectanglePosition\bin\Debug\p06_RectanglePosition.exe
+C:\Users\user\source\repos\Objects-Lab\p06_RectanglePosition\p06_RectanglePosition\bin\Debug\p06_RectanglePosition.pdb
+C:\Users\user\source\repos\Objects-Lab\p06_RectanglePosition\p06_RectanglePosition\obj\Debug\p06_RectanglePosition.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Objects-Lab\p06_RectanglePosition\p06_RectanglePosition\obj\Debug\p06_RectanglePosition.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Objects-Lab\p06_RectanglePosition\p06_RectanglePosition\obj\Debug\p06_RectanglePosition.exe
+C:\Users\user\source\repos\Objects-Lab\p06_RectanglePosition\p06_RectanglePosition\obj\Debug\p06_RectanglePosition.pdb

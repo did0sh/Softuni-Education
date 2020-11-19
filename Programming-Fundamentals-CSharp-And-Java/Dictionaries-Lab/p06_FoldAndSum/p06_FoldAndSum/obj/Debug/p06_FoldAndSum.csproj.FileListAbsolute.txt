@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Lab\p06_FoldAndSum\p06_FoldAndSum\bin\Debug\p06_FoldAndSum.exe.config
+C:\Users\user\source\repos\Dictionaries-Lab\p06_FoldAndSum\p06_FoldAndSum\bin\Debug\p06_FoldAndSum.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p06_FoldAndSum\p06_FoldAndSum\bin\Debug\p06_FoldAndSum.pdb
+C:\Users\user\source\repos\Dictionaries-Lab\p06_FoldAndSum\p06_FoldAndSum\obj\Debug\p06_FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p06_FoldAndSum\p06_FoldAndSum\obj\Debug\p06_FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p06_FoldAndSum\p06_FoldAndSum\obj\Debug\p06_FoldAndSum.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p06_FoldAndSum\p06_FoldAndSum\obj\Debug\p06_FoldAndSum.pdb

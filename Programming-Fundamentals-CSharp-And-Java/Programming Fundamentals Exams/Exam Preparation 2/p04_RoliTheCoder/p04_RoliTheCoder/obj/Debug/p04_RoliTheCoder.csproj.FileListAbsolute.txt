@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 2\p04_RoliTheCoder\p04_RoliTheCoder\bin\Debug\p04_RoliTheCoder.exe.config
+C:\Users\user\source\repos\Exam Preparation 2\p04_RoliTheCoder\p04_RoliTheCoder\bin\Debug\p04_RoliTheCoder.exe
+C:\Users\user\source\repos\Exam Preparation 2\p04_RoliTheCoder\p04_RoliTheCoder\bin\Debug\p04_RoliTheCoder.pdb
+C:\Users\user\source\repos\Exam Preparation 2\p04_RoliTheCoder\p04_RoliTheCoder\obj\Debug\p04_RoliTheCoder.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 2\p04_RoliTheCoder\p04_RoliTheCoder\obj\Debug\p04_RoliTheCoder.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 2\p04_RoliTheCoder\p04_RoliTheCoder\obj\Debug\p04_RoliTheCoder.exe
+C:\Users\user\source\repos\Exam Preparation 2\p04_RoliTheCoder\p04_RoliTheCoder\obj\Debug\p04_RoliTheCoder.pdb

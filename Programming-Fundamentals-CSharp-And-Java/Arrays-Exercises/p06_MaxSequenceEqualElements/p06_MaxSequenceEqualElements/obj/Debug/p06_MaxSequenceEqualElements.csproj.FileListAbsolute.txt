@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arrays-Exercises\p06_MaxSequenceEqualElements\p06_MaxSequenceEqualElements\bin\Debug\p06_MaxSequenceEqualElements.exe.config
+C:\Users\user\source\repos\Arrays-Exercises\p06_MaxSequenceEqualElements\p06_MaxSequenceEqualElements\bin\Debug\p06_MaxSequenceEqualElements.exe
+C:\Users\user\source\repos\Arrays-Exercises\p06_MaxSequenceEqualElements\p06_MaxSequenceEqualElements\bin\Debug\p06_MaxSequenceEqualElements.pdb
+C:\Users\user\source\repos\Arrays-Exercises\p06_MaxSequenceEqualElements\p06_MaxSequenceEqualElements\obj\Debug\p06_MaxSequenceEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays-Exercises\p06_MaxSequenceEqualElements\p06_MaxSequenceEqualElements\obj\Debug\p06_MaxSequenceEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Exercises\p06_MaxSequenceEqualElements\p06_MaxSequenceEqualElements\obj\Debug\p06_MaxSequenceEqualElements.exe
+C:\Users\user\source\repos\Arrays-Exercises\p06_MaxSequenceEqualElements\p06_MaxSequenceEqualElements\obj\Debug\p06_MaxSequenceEqualElements.pdb

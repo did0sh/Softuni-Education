@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arrays-Exercises\p04_SieveOfEratosthenes\p04_SieveOfEratosthenes\bin\Debug\p04_SieveOfEratosthenes.exe.config
+C:\Users\user\source\repos\Arrays-Exercises\p04_SieveOfEratosthenes\p04_SieveOfEratosthenes\bin\Debug\p04_SieveOfEratosthenes.exe
+C:\Users\user\source\repos\Arrays-Exercises\p04_SieveOfEratosthenes\p04_SieveOfEratosthenes\bin\Debug\p04_SieveOfEratosthenes.pdb
+C:\Users\user\source\repos\Arrays-Exercises\p04_SieveOfEratosthenes\p04_SieveOfEratosthenes\obj\Debug\p04_SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays-Exercises\p04_SieveOfEratosthenes\p04_SieveOfEratosthenes\obj\Debug\p04_SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Exercises\p04_SieveOfEratosthenes\p04_SieveOfEratosthenes\obj\Debug\p04_SieveOfEratosthenes.exe
+C:\Users\user\source\repos\Arrays-Exercises\p04_SieveOfEratosthenes\p04_SieveOfEratosthenes\obj\Debug\p04_SieveOfEratosthenes.pdb

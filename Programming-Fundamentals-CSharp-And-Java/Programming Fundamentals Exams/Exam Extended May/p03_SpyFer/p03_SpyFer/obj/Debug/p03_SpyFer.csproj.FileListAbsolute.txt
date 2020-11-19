@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended May\p03_SpyFer\p03_SpyFer\bin\Debug\p03_SpyFer.exe.config
+C:\Users\user\source\repos\Exam Extended May\p03_SpyFer\p03_SpyFer\bin\Debug\p03_SpyFer.exe
+C:\Users\user\source\repos\Exam Extended May\p03_SpyFer\p03_SpyFer\bin\Debug\p03_SpyFer.pdb
+C:\Users\user\source\repos\Exam Extended May\p03_SpyFer\p03_SpyFer\obj\Debug\p03_SpyFer.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended May\p03_SpyFer\p03_SpyFer\obj\Debug\p03_SpyFer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended May\p03_SpyFer\p03_SpyFer\obj\Debug\p03_SpyFer.exe
+C:\Users\user\source\repos\Exam Extended May\p03_SpyFer\p03_SpyFer\obj\Debug\p03_SpyFer.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arrays-Lab\p04_TripleSum\p04_TripleSum\bin\Debug\p04_TripleSum.exe.config
+C:\Users\user\source\repos\Arrays-Lab\p04_TripleSum\p04_TripleSum\bin\Debug\p04_TripleSum.exe
+C:\Users\user\source\repos\Arrays-Lab\p04_TripleSum\p04_TripleSum\bin\Debug\p04_TripleSum.pdb
+C:\Users\user\source\repos\Arrays-Lab\p04_TripleSum\p04_TripleSum\obj\Debug\p04_TripleSum.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays-Lab\p04_TripleSum\p04_TripleSum\obj\Debug\p04_TripleSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Lab\p04_TripleSum\p04_TripleSum\obj\Debug\p04_TripleSum.exe
+C:\Users\user\source\repos\Arrays-Lab\p04_TripleSum\p04_TripleSum\obj\Debug\p04_TripleSum.pdb

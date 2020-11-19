@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\String and TextProcessing - Lab\p03_TextFilter\p03_TextFilter\bin\Debug\p03_TextFilter.exe.config
+C:\Users\user\source\repos\String and TextProcessing - Lab\p03_TextFilter\p03_TextFilter\bin\Debug\p03_TextFilter.exe
+C:\Users\user\source\repos\String and TextProcessing - Lab\p03_TextFilter\p03_TextFilter\bin\Debug\p03_TextFilter.pdb
+C:\Users\user\source\repos\String and TextProcessing - Lab\p03_TextFilter\p03_TextFilter\obj\Debug\p03_TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\String and TextProcessing - Lab\p03_TextFilter\p03_TextFilter\obj\Debug\p03_TextFilter.exe
+C:\Users\user\source\repos\String and TextProcessing - Lab\p03_TextFilter\p03_TextFilter\obj\Debug\p03_TextFilter.pdb

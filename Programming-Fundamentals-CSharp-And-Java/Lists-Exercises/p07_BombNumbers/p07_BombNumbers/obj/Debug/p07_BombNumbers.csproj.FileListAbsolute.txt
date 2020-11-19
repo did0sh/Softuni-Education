@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Exercises\p07_BombNumbers\p07_BombNumbers\bin\Debug\p07_BombNumbers.exe.config
+C:\Users\user\source\repos\Lists-Exercises\p07_BombNumbers\p07_BombNumbers\bin\Debug\p07_BombNumbers.exe
+C:\Users\user\source\repos\Lists-Exercises\p07_BombNumbers\p07_BombNumbers\bin\Debug\p07_BombNumbers.pdb
+C:\Users\user\source\repos\Lists-Exercises\p07_BombNumbers\p07_BombNumbers\obj\Debug\p07_BombNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Exercises\p07_BombNumbers\p07_BombNumbers\obj\Debug\p07_BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Exercises\p07_BombNumbers\p07_BombNumbers\obj\Debug\p07_BombNumbers.exe
+C:\Users\user\source\repos\Lists-Exercises\p07_BombNumbers\p07_BombNumbers\obj\Debug\p07_BombNumbers.pdb

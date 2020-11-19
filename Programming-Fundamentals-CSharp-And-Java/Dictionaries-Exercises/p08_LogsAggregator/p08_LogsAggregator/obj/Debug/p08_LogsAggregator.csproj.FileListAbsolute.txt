@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Exercises\p08_LogsAggregator\p08_LogsAggregator\bin\Debug\p08_LogsAggregator.exe.config
+C:\Users\user\source\repos\Dictionaries-Exercises\p08_LogsAggregator\p08_LogsAggregator\bin\Debug\p08_LogsAggregator.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p08_LogsAggregator\p08_LogsAggregator\bin\Debug\p08_LogsAggregator.pdb
+C:\Users\user\source\repos\Dictionaries-Exercises\p08_LogsAggregator\p08_LogsAggregator\obj\Debug\p08_LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p08_LogsAggregator\p08_LogsAggregator\obj\Debug\p08_LogsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p08_LogsAggregator\p08_LogsAggregator\obj\Debug\p08_LogsAggregator.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p08_LogsAggregator\p08_LogsAggregator\obj\Debug\p08_LogsAggregator.pdb

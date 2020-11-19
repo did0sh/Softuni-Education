@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Objects-Exercises\p01_CountWorkingDays\p01_CountWorkingDays\bin\Debug\p01_CountWorkingDays.exe.config
+C:\Users\user\source\repos\Objects-Exercises\p01_CountWorkingDays\p01_CountWorkingDays\bin\Debug\p01_CountWorkingDays.exe
+C:\Users\user\source\repos\Objects-Exercises\p01_CountWorkingDays\p01_CountWorkingDays\bin\Debug\p01_CountWorkingDays.pdb
+C:\Users\user\source\repos\Objects-Exercises\p01_CountWorkingDays\p01_CountWorkingDays\obj\Debug\p01_CountWorkingDays.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Objects-Exercises\p01_CountWorkingDays\p01_CountWorkingDays\obj\Debug\p01_CountWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Objects-Exercises\p01_CountWorkingDays\p01_CountWorkingDays\obj\Debug\p01_CountWorkingDays.exe
+C:\Users\user\source\repos\Objects-Exercises\p01_CountWorkingDays\p01_CountWorkingDays\obj\Debug\p01_CountWorkingDays.pdb

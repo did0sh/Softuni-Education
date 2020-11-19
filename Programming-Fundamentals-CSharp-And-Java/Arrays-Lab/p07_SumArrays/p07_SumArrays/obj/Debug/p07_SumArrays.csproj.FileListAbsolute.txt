@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arrays-Lab\p07_SumArrays\p07_SumArrays\bin\Debug\p07_SumArrays.exe.config
+C:\Users\user\source\repos\Arrays-Lab\p07_SumArrays\p07_SumArrays\bin\Debug\p07_SumArrays.exe
+C:\Users\user\source\repos\Arrays-Lab\p07_SumArrays\p07_SumArrays\bin\Debug\p07_SumArrays.pdb
+C:\Users\user\source\repos\Arrays-Lab\p07_SumArrays\p07_SumArrays\obj\Debug\p07_SumArrays.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays-Lab\p07_SumArrays\p07_SumArrays\obj\Debug\p07_SumArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Lab\p07_SumArrays\p07_SumArrays\obj\Debug\p07_SumArrays.exe
+C:\Users\user\source\repos\Arrays-Lab\p07_SumArrays\p07_SumArrays\obj\Debug\p07_SumArrays.pdb

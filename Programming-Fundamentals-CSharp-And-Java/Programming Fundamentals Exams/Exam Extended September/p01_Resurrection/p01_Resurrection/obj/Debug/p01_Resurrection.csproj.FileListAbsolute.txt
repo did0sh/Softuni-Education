@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended September\p01_Resurrection\p01_Resurrection\bin\Debug\p01_Resurrection.exe.config
+C:\Users\user\source\repos\Exam Extended September\p01_Resurrection\p01_Resurrection\bin\Debug\p01_Resurrection.exe
+C:\Users\user\source\repos\Exam Extended September\p01_Resurrection\p01_Resurrection\bin\Debug\p01_Resurrection.pdb
+C:\Users\user\source\repos\Exam Extended September\p01_Resurrection\p01_Resurrection\obj\Debug\p01_Resurrection.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended September\p01_Resurrection\p01_Resurrection\obj\Debug\p01_Resurrection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended September\p01_Resurrection\p01_Resurrection\obj\Debug\p01_Resurrection.exe
+C:\Users\user\source\repos\Exam Extended September\p01_Resurrection\p01_Resurrection\obj\Debug\p01_Resurrection.pdb

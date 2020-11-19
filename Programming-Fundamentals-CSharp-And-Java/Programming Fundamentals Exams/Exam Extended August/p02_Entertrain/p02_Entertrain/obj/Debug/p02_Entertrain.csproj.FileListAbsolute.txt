@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended August\p02_Entertrain\p02_Entertrain\bin\Debug\p02_Entertrain.exe.config
+C:\Users\user\source\repos\Exam Extended August\p02_Entertrain\p02_Entertrain\bin\Debug\p02_Entertrain.exe
+C:\Users\user\source\repos\Exam Extended August\p02_Entertrain\p02_Entertrain\bin\Debug\p02_Entertrain.pdb
+C:\Users\user\source\repos\Exam Extended August\p02_Entertrain\p02_Entertrain\obj\Debug\p02_Entertrain.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended August\p02_Entertrain\p02_Entertrain\obj\Debug\p02_Entertrain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended August\p02_Entertrain\p02_Entertrain\obj\Debug\p02_Entertrain.exe
+C:\Users\user\source\repos\Exam Extended August\p02_Entertrain\p02_Entertrain\obj\Debug\p02_Entertrain.pdb

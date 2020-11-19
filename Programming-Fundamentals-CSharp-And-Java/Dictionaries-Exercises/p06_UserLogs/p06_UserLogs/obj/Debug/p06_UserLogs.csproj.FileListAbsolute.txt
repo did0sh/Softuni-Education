@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Exercises\p06_UserLogs\p06_UserLogs\bin\Debug\p06_UserLogs.exe.config
+C:\Users\user\source\repos\Dictionaries-Exercises\p06_UserLogs\p06_UserLogs\bin\Debug\p06_UserLogs.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p06_UserLogs\p06_UserLogs\bin\Debug\p06_UserLogs.pdb
+C:\Users\user\source\repos\Dictionaries-Exercises\p06_UserLogs\p06_UserLogs\obj\Debug\p06_UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p06_UserLogs\p06_UserLogs\obj\Debug\p06_UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p06_UserLogs\p06_UserLogs\obj\Debug\p06_UserLogs.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p06_UserLogs\p06_UserLogs\obj\Debug\p06_UserLogs.pdb

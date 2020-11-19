@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\p02_ConvertFromBase-NToBase-10\p02_ConvertFromBase-NToBase-10\bin\Debug\p02_ConvertFromBase-NToBase-10.exe.config
+C:\Users\user\source\repos\p02_ConvertFromBase-NToBase-10\p02_ConvertFromBase-NToBase-10\bin\Debug\p02_ConvertFromBase-NToBase-10.exe
+C:\Users\user\source\repos\p02_ConvertFromBase-NToBase-10\p02_ConvertFromBase-NToBase-10\bin\Debug\p02_ConvertFromBase-NToBase-10.pdb
+C:\Users\user\source\repos\p02_ConvertFromBase-NToBase-10\p02_ConvertFromBase-NToBase-10\obj\Debug\p02_ConvertFromBase-NToBase-10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p02_ConvertFromBase-NToBase-10\p02_ConvertFromBase-NToBase-10\obj\Debug\p02_ConvertFromBase-NToBase-10.exe
+C:\Users\user\source\repos\p02_ConvertFromBase-NToBase-10\p02_ConvertFromBase-NToBase-10\obj\Debug\p02_ConvertFromBase-NToBase-10.pdb

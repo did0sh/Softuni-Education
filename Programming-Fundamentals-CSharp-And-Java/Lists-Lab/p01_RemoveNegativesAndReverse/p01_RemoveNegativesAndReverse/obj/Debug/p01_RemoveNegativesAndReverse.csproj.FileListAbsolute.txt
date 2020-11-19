@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Lab\p01_RemoveNegativesAndReverse\p01_RemoveNegativesAndReverse\bin\Debug\p01_RemoveNegativesAndReverse.exe.config
+C:\Users\user\source\repos\Lists-Lab\p01_RemoveNegativesAndReverse\p01_RemoveNegativesAndReverse\bin\Debug\p01_RemoveNegativesAndReverse.exe
+C:\Users\user\source\repos\Lists-Lab\p01_RemoveNegativesAndReverse\p01_RemoveNegativesAndReverse\bin\Debug\p01_RemoveNegativesAndReverse.pdb
+C:\Users\user\source\repos\Lists-Lab\p01_RemoveNegativesAndReverse\p01_RemoveNegativesAndReverse\obj\Debug\p01_RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Lab\p01_RemoveNegativesAndReverse\p01_RemoveNegativesAndReverse\obj\Debug\p01_RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Lab\p01_RemoveNegativesAndReverse\p01_RemoveNegativesAndReverse\obj\Debug\p01_RemoveNegativesAndReverse.exe
+C:\Users\user\source\repos\Lists-Lab\p01_RemoveNegativesAndReverse\p01_RemoveNegativesAndReverse\obj\Debug\p01_RemoveNegativesAndReverse.pdb

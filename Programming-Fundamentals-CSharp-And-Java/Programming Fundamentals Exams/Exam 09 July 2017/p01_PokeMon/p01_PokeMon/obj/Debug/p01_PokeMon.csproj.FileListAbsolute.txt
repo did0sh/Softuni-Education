@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam 09 July 2017\p01_PokeMon\p01_PokeMon\bin\Debug\p01_PokeMon.exe.config
+C:\Users\user\source\repos\Exam 09 July 2017\p01_PokeMon\p01_PokeMon\bin\Debug\p01_PokeMon.exe
+C:\Users\user\source\repos\Exam 09 July 2017\p01_PokeMon\p01_PokeMon\bin\Debug\p01_PokeMon.pdb
+C:\Users\user\source\repos\Exam 09 July 2017\p01_PokeMon\p01_PokeMon\obj\Debug\p01_PokeMon.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam 09 July 2017\p01_PokeMon\p01_PokeMon\obj\Debug\p01_PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam 09 July 2017\p01_PokeMon\p01_PokeMon\obj\Debug\p01_PokeMon.exe
+C:\Users\user\source\repos\Exam 09 July 2017\p01_PokeMon\p01_PokeMon\obj\Debug\p01_PokeMon.pdb

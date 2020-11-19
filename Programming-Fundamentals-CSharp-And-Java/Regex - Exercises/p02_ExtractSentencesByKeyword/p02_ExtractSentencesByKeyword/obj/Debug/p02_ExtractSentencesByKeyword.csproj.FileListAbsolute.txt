@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Regex - Exercises\p02_ExtractSentencesByKeyword\p02_ExtractSentencesByKeyword\bin\Debug\p02_ExtractSentencesByKeyword.exe.config
+C:\Users\user\source\repos\Regex - Exercises\p02_ExtractSentencesByKeyword\p02_ExtractSentencesByKeyword\bin\Debug\p02_ExtractSentencesByKeyword.exe
+C:\Users\user\source\repos\Regex - Exercises\p02_ExtractSentencesByKeyword\p02_ExtractSentencesByKeyword\bin\Debug\p02_ExtractSentencesByKeyword.pdb
+C:\Users\user\source\repos\Regex - Exercises\p02_ExtractSentencesByKeyword\p02_ExtractSentencesByKeyword\obj\Debug\p02_ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Regex - Exercises\p02_ExtractSentencesByKeyword\p02_ExtractSentencesByKeyword\obj\Debug\p02_ExtractSentencesByKeyword.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Regex - Exercises\p02_ExtractSentencesByKeyword\p02_ExtractSentencesByKeyword\obj\Debug\p02_ExtractSentencesByKeyword.exe
+C:\Users\user\source\repos\Regex - Exercises\p02_ExtractSentencesByKeyword\p02_ExtractSentencesByKeyword\obj\Debug\p02_ExtractSentencesByKeyword.pdb

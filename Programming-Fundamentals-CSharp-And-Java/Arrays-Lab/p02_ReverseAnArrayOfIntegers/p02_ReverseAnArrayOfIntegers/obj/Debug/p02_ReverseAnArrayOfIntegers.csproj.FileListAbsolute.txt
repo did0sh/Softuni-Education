@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Arrays-Lab\p02_ReverseAnArrayOfIntegers\p02_ReverseAnArrayOfIntegers\bin\Debug\p02_ReverseAnArrayOfIntegers.exe.config
+C:\Users\user\source\repos\Arrays-Lab\p02_ReverseAnArrayOfIntegers\p02_ReverseAnArrayOfIntegers\bin\Debug\p02_ReverseAnArrayOfIntegers.exe
+C:\Users\user\source\repos\Arrays-Lab\p02_ReverseAnArrayOfIntegers\p02_ReverseAnArrayOfIntegers\bin\Debug\p02_ReverseAnArrayOfIntegers.pdb
+C:\Users\user\source\repos\Arrays-Lab\p02_ReverseAnArrayOfIntegers\p02_ReverseAnArrayOfIntegers\obj\Debug\p02_ReverseAnArrayOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Lab\p02_ReverseAnArrayOfIntegers\p02_ReverseAnArrayOfIntegers\obj\Debug\p02_ReverseAnArrayOfIntegers.exe
+C:\Users\user\source\repos\Arrays-Lab\p02_ReverseAnArrayOfIntegers\p02_ReverseAnArrayOfIntegers\obj\Debug\p02_ReverseAnArrayOfIntegers.pdb

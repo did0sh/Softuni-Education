@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Arrays-Exercises\p10_ParisByDifference\p10_ParisByDifference\bin\Debug\p10_ParisByDifference.exe.config
+C:\Users\user\source\repos\Arrays-Exercises\p10_ParisByDifference\p10_ParisByDifference\bin\Debug\p10_ParisByDifference.exe
+C:\Users\user\source\repos\Arrays-Exercises\p10_ParisByDifference\p10_ParisByDifference\bin\Debug\p10_ParisByDifference.pdb
+C:\Users\user\source\repos\Arrays-Exercises\p10_ParisByDifference\p10_ParisByDifference\obj\Debug\p10_ParisByDifference.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Exercises\p10_ParisByDifference\p10_ParisByDifference\obj\Debug\p10_ParisByDifference.exe
+C:\Users\user\source\repos\Arrays-Exercises\p10_ParisByDifference\p10_ParisByDifference\obj\Debug\p10_ParisByDifference.pdb

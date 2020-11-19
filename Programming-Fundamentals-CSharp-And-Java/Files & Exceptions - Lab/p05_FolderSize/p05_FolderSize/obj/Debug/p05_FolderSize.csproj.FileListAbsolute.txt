@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Files & Exceptions - Lab\p05_FolderSize\p05_FolderSize\bin\Debug\p05_FolderSize.exe.config
+C:\Users\user\source\repos\Files & Exceptions - Lab\p05_FolderSize\p05_FolderSize\bin\Debug\p05_FolderSize.exe
+C:\Users\user\source\repos\Files & Exceptions - Lab\p05_FolderSize\p05_FolderSize\bin\Debug\p05_FolderSize.pdb
+C:\Users\user\source\repos\Files & Exceptions - Lab\p05_FolderSize\p05_FolderSize\obj\Debug\p05_FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Files & Exceptions - Lab\p05_FolderSize\p05_FolderSize\obj\Debug\p05_FolderSize.exe
+C:\Users\user\source\repos\Files & Exceptions - Lab\p05_FolderSize\p05_FolderSize\obj\Debug\p05_FolderSize.pdb

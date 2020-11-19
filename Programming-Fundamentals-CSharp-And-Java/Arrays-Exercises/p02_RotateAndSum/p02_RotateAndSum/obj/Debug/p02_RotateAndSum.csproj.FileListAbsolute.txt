@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arrays-Exercises\p02_RotateAndSum\p02_RotateAndSum\bin\Debug\p02_RotateAndSum.exe.config
+C:\Users\user\source\repos\Arrays-Exercises\p02_RotateAndSum\p02_RotateAndSum\bin\Debug\p02_RotateAndSum.exe
+C:\Users\user\source\repos\Arrays-Exercises\p02_RotateAndSum\p02_RotateAndSum\bin\Debug\p02_RotateAndSum.pdb
+C:\Users\user\source\repos\Arrays-Exercises\p02_RotateAndSum\p02_RotateAndSum\obj\Debug\p02_RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays-Exercises\p02_RotateAndSum\p02_RotateAndSum\obj\Debug\p02_RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Exercises\p02_RotateAndSum\p02_RotateAndSum\obj\Debug\p02_RotateAndSum.exe
+C:\Users\user\source\repos\Arrays-Exercises\p02_RotateAndSum\p02_RotateAndSum\obj\Debug\p02_RotateAndSum.pdb

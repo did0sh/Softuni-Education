@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended September\p02_Icarus\p02_Icarus\bin\Debug\p02_Icarus.exe.config
+C:\Users\user\source\repos\Exam Extended September\p02_Icarus\p02_Icarus\bin\Debug\p02_Icarus.exe
+C:\Users\user\source\repos\Exam Extended September\p02_Icarus\p02_Icarus\bin\Debug\p02_Icarus.pdb
+C:\Users\user\source\repos\Exam Extended September\p02_Icarus\p02_Icarus\obj\Debug\p02_Icarus.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended September\p02_Icarus\p02_Icarus\obj\Debug\p02_Icarus.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended September\p02_Icarus\p02_Icarus\obj\Debug\p02_Icarus.exe
+C:\Users\user\source\repos\Exam Extended September\p02_Icarus\p02_Icarus\obj\Debug\p02_Icarus.pdb

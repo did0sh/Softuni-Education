@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Lab\p06_SquareNumbers\p06_SquareNumbers\bin\Debug\p06_SquareNumbers.exe.config
+C:\Users\user\source\repos\Lists-Lab\p06_SquareNumbers\p06_SquareNumbers\bin\Debug\p06_SquareNumbers.exe
+C:\Users\user\source\repos\Lists-Lab\p06_SquareNumbers\p06_SquareNumbers\bin\Debug\p06_SquareNumbers.pdb
+C:\Users\user\source\repos\Lists-Lab\p06_SquareNumbers\p06_SquareNumbers\obj\Debug\p06_SquareNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Lab\p06_SquareNumbers\p06_SquareNumbers\obj\Debug\p06_SquareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Lab\p06_SquareNumbers\p06_SquareNumbers\obj\Debug\p06_SquareNumbers.exe
+C:\Users\user\source\repos\Lists-Lab\p06_SquareNumbers\p06_SquareNumbers\obj\Debug\p06_SquareNumbers.pdb

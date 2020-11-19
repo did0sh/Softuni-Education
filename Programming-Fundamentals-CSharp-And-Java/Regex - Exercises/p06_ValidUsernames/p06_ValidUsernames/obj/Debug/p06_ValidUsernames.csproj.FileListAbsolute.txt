@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Regex - Exercises\p06_ValidUsernames\p06_ValidUsernames\bin\Debug\p06_ValidUsernames.exe.config
+C:\Users\user\source\repos\Regex - Exercises\p06_ValidUsernames\p06_ValidUsernames\bin\Debug\p06_ValidUsernames.exe
+C:\Users\user\source\repos\Regex - Exercises\p06_ValidUsernames\p06_ValidUsernames\bin\Debug\p06_ValidUsernames.pdb
+C:\Users\user\source\repos\Regex - Exercises\p06_ValidUsernames\p06_ValidUsernames\obj\Debug\p06_ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Regex - Exercises\p06_ValidUsernames\p06_ValidUsernames\obj\Debug\p06_ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Regex - Exercises\p06_ValidUsernames\p06_ValidUsernames\obj\Debug\p06_ValidUsernames.exe
+C:\Users\user\source\repos\Regex - Exercises\p06_ValidUsernames\p06_ValidUsernames\obj\Debug\p06_ValidUsernames.pdb

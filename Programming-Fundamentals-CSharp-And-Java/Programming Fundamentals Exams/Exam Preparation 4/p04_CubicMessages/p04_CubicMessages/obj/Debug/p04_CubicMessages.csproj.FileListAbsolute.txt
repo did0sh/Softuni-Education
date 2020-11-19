@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 4\p04_CubicMessages\p04_CubicMessages\bin\Debug\p04_CubicMessages.exe.config
+C:\Users\user\source\repos\Exam Preparation 4\p04_CubicMessages\p04_CubicMessages\bin\Debug\p04_CubicMessages.exe
+C:\Users\user\source\repos\Exam Preparation 4\p04_CubicMessages\p04_CubicMessages\bin\Debug\p04_CubicMessages.pdb
+C:\Users\user\source\repos\Exam Preparation 4\p04_CubicMessages\p04_CubicMessages\obj\Debug\p04_CubicMessages.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 4\p04_CubicMessages\p04_CubicMessages\obj\Debug\p04_CubicMessages.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 4\p04_CubicMessages\p04_CubicMessages\obj\Debug\p04_CubicMessages.exe
+C:\Users\user\source\repos\Exam Preparation 4\p04_CubicMessages\p04_CubicMessages\obj\Debug\p04_CubicMessages.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\p09_LongerLine\p09_LongerLine\bin\Debug\p09_LongerLine.exe.config
+C:\Users\user\source\repos\p09_LongerLine\p09_LongerLine\bin\Debug\p09_LongerLine.exe
+C:\Users\user\source\repos\p09_LongerLine\p09_LongerLine\bin\Debug\p09_LongerLine.pdb
+C:\Users\user\source\repos\p09_LongerLine\p09_LongerLine\obj\Debug\p09_LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p09_LongerLine\p09_LongerLine\obj\Debug\p09_LongerLine.exe
+C:\Users\user\source\repos\p09_LongerLine\p09_LongerLine\obj\Debug\p09_LongerLine.pdb
+C:\Users\user\source\repos\p09_LongerLine\p09_LongerLine\obj\Debug\p09_LongerLine.csprojResolveAssemblyReference.cache

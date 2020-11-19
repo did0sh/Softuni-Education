@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 1\p03_EnduranceRally\p03_EnduranceRally\bin\Debug\p03_EnduranceRally.exe.config
+C:\Users\user\source\repos\Exam Preparation 1\p03_EnduranceRally\p03_EnduranceRally\bin\Debug\p03_EnduranceRally.exe
+C:\Users\user\source\repos\Exam Preparation 1\p03_EnduranceRally\p03_EnduranceRally\bin\Debug\p03_EnduranceRally.pdb
+C:\Users\user\source\repos\Exam Preparation 1\p03_EnduranceRally\p03_EnduranceRally\obj\Debug\p03_EnduranceRally.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 1\p03_EnduranceRally\p03_EnduranceRally\obj\Debug\p03_EnduranceRally.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 1\p03_EnduranceRally\p03_EnduranceRally\obj\Debug\p03_EnduranceRally.exe
+C:\Users\user\source\repos\Exam Preparation 1\p03_EnduranceRally\p03_EnduranceRally\obj\Debug\p03_EnduranceRally.pdb

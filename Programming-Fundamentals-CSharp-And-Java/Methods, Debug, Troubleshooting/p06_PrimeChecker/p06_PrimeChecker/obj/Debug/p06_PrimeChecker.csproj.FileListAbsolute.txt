@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\p06_PrimeChecker\p06_PrimeChecker\bin\Debug\p06_PrimeChecker.exe.config
+C:\Users\user\source\repos\p06_PrimeChecker\p06_PrimeChecker\bin\Debug\p06_PrimeChecker.exe
+C:\Users\user\source\repos\p06_PrimeChecker\p06_PrimeChecker\bin\Debug\p06_PrimeChecker.pdb
+C:\Users\user\source\repos\p06_PrimeChecker\p06_PrimeChecker\obj\Debug\p06_PrimeChecker.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\p06_PrimeChecker\p06_PrimeChecker\obj\Debug\p06_PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p06_PrimeChecker\p06_PrimeChecker\obj\Debug\p06_PrimeChecker.exe
+C:\Users\user\source\repos\p06_PrimeChecker\p06_PrimeChecker\obj\Debug\p06_PrimeChecker.pdb

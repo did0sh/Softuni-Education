@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p09_MelrahShake\p09_MelrahShake\bin\Debug\p09_MelrahShake.exe.config
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p09_MelrahShake\p09_MelrahShake\bin\Debug\p09_MelrahShake.exe
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p09_MelrahShake\p09_MelrahShake\bin\Debug\p09_MelrahShake.pdb
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p09_MelrahShake\p09_MelrahShake\obj\Debug\p09_MelrahShake.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p09_MelrahShake\p09_MelrahShake\obj\Debug\p09_MelrahShake.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p09_MelrahShake\p09_MelrahShake\obj\Debug\p09_MelrahShake.exe
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p09_MelrahShake\p09_MelrahShake\obj\Debug\p09_MelrahShake.pdb

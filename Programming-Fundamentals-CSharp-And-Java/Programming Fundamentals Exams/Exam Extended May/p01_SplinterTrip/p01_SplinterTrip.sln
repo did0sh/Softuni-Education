@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p01_SplinterTrip", "p01_SplinterTrip\p01_SplinterTrip.csproj", "{CA4335DE-A646-42AF-97A3-296CDC1BCB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4335DE-A646-42AF-97A3-296CDC1BCB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4335DE-A646-42AF-97A3-296CDC1BCB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4335DE-A646-42AF-97A3-296CDC1BCB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4335DE-A646-42AF-97A3-296CDC1BCB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECFA304F-848B-4983-A795-501F3809E740}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arrays-Lab\p06_ReverseArrayOfStrings\p06_ReverseArrayOfStrings\bin\Debug\p06_ReverseArrayOfStrings.exe.config
+C:\Users\user\source\repos\Arrays-Lab\p06_ReverseArrayOfStrings\p06_ReverseArrayOfStrings\bin\Debug\p06_ReverseArrayOfStrings.exe
+C:\Users\user\source\repos\Arrays-Lab\p06_ReverseArrayOfStrings\p06_ReverseArrayOfStrings\bin\Debug\p06_ReverseArrayOfStrings.pdb
+C:\Users\user\source\repos\Arrays-Lab\p06_ReverseArrayOfStrings\p06_ReverseArrayOfStrings\obj\Debug\p06_ReverseArrayOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays-Lab\p06_ReverseArrayOfStrings\p06_ReverseArrayOfStrings\obj\Debug\p06_ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Lab\p06_ReverseArrayOfStrings\p06_ReverseArrayOfStrings\obj\Debug\p06_ReverseArrayOfStrings.exe
+C:\Users\user\source\repos\Arrays-Lab\p06_ReverseArrayOfStrings\p06_ReverseArrayOfStrings\obj\Debug\p06_ReverseArrayOfStrings.pdb

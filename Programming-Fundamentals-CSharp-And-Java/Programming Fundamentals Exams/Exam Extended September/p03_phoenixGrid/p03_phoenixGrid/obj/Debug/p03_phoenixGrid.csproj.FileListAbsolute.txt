@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended September\p03_phoenixGrid\p03_phoenixGrid\bin\Debug\p03_phoenixGrid.exe.config
+C:\Users\user\source\repos\Exam Extended September\p03_phoenixGrid\p03_phoenixGrid\bin\Debug\p03_phoenixGrid.exe
+C:\Users\user\source\repos\Exam Extended September\p03_phoenixGrid\p03_phoenixGrid\bin\Debug\p03_phoenixGrid.pdb
+C:\Users\user\source\repos\Exam Extended September\p03_phoenixGrid\p03_phoenixGrid\obj\Debug\p03_phoenixGrid.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended September\p03_phoenixGrid\p03_phoenixGrid\obj\Debug\p03_phoenixGrid.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended September\p03_phoenixGrid\p03_phoenixGrid\obj\Debug\p03_phoenixGrid.exe
+C:\Users\user\source\repos\Exam Extended September\p03_phoenixGrid\p03_phoenixGrid\obj\Debug\p03_phoenixGrid.pdb

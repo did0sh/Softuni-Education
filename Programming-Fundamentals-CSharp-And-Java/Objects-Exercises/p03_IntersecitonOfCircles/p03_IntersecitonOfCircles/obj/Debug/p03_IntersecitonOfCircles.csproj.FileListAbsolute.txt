@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Objects-Exercises\p03_IntersecitonOfCircles\p03_IntersecitonOfCircles\bin\Debug\p03_IntersecitonOfCircles.exe.config
+C:\Users\user\source\repos\Objects-Exercises\p03_IntersecitonOfCircles\p03_IntersecitonOfCircles\bin\Debug\p03_IntersecitonOfCircles.exe
+C:\Users\user\source\repos\Objects-Exercises\p03_IntersecitonOfCircles\p03_IntersecitonOfCircles\bin\Debug\p03_IntersecitonOfCircles.pdb
+C:\Users\user\source\repos\Objects-Exercises\p03_IntersecitonOfCircles\p03_IntersecitonOfCircles\obj\Debug\p03_IntersecitonOfCircles.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Objects-Exercises\p03_IntersecitonOfCircles\p03_IntersecitonOfCircles\obj\Debug\p03_IntersecitonOfCircles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Objects-Exercises\p03_IntersecitonOfCircles\p03_IntersecitonOfCircles\obj\Debug\p03_IntersecitonOfCircles.exe
+C:\Users\user\source\repos\Objects-Exercises\p03_IntersecitonOfCircles\p03_IntersecitonOfCircles\obj\Debug\p03_IntersecitonOfCircles.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p04_CharacterMultiplier\p04_CharacterMultiplier\bin\Debug\p04_CharacterMultiplier.exe.config
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p04_CharacterMultiplier\p04_CharacterMultiplier\bin\Debug\p04_CharacterMultiplier.exe
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p04_CharacterMultiplier\p04_CharacterMultiplier\bin\Debug\p04_CharacterMultiplier.pdb
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p04_CharacterMultiplier\p04_CharacterMultiplier\obj\Debug\p04_CharacterMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p04_CharacterMultiplier\p04_CharacterMultiplier\obj\Debug\p04_CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p04_CharacterMultiplier\p04_CharacterMultiplier\obj\Debug\p04_CharacterMultiplier.exe
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p04_CharacterMultiplier\p04_CharacterMultiplier\obj\Debug\p04_CharacterMultiplier.pdb

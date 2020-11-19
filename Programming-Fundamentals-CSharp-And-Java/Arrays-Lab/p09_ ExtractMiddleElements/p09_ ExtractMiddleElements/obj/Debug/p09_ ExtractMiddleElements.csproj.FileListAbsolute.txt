@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\p09_ ExtractMiddleElements\p09_ ExtractMiddleElements\obj\Debug\p09_ ExtractMiddleElements.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\p09_ ExtractMiddleElements\p09_ ExtractMiddleElements\obj\Debug\p09_ ExtractMiddleElements.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p09_ ExtractMiddleElements\p09_ ExtractMiddleElements\bin\Debug\p09_ ExtractMiddleElements.exe.config
+C:\Users\user\source\repos\p09_ ExtractMiddleElements\p09_ ExtractMiddleElements\bin\Debug\p09_ ExtractMiddleElements.exe
+C:\Users\user\source\repos\p09_ ExtractMiddleElements\p09_ ExtractMiddleElements\bin\Debug\p09_ ExtractMiddleElements.pdb
+C:\Users\user\source\repos\p09_ ExtractMiddleElements\p09_ ExtractMiddleElements\obj\Debug\p09_ ExtractMiddleElements.exe
+C:\Users\user\source\repos\p09_ ExtractMiddleElements\p09_ ExtractMiddleElements\obj\Debug\p09_ ExtractMiddleElements.pdb

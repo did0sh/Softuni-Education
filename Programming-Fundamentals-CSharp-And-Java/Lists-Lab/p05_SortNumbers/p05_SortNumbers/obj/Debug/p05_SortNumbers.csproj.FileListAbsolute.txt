@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Lists-Lab\p05_SortNumbers\p05_SortNumbers\bin\Debug\p05_SortNumbers.exe.config
+C:\Users\user\source\repos\Lists-Lab\p05_SortNumbers\p05_SortNumbers\bin\Debug\p05_SortNumbers.exe
+C:\Users\user\source\repos\Lists-Lab\p05_SortNumbers\p05_SortNumbers\bin\Debug\p05_SortNumbers.pdb
+C:\Users\user\source\repos\Lists-Lab\p05_SortNumbers\p05_SortNumbers\obj\Debug\p05_SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Lab\p05_SortNumbers\p05_SortNumbers\obj\Debug\p05_SortNumbers.exe
+C:\Users\user\source\repos\Lists-Lab\p05_SortNumbers\p05_SortNumbers\obj\Debug\p05_SortNumbers.pdb

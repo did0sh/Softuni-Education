@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Lab\p05_ShortWordsSorted\p05_ShortWordsSorted\bin\Debug\p05_ShortWordsSorted.exe.config
+C:\Users\user\source\repos\Dictionaries-Lab\p05_ShortWordsSorted\p05_ShortWordsSorted\bin\Debug\p05_ShortWordsSorted.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p05_ShortWordsSorted\p05_ShortWordsSorted\bin\Debug\p05_ShortWordsSorted.pdb
+C:\Users\user\source\repos\Dictionaries-Lab\p05_ShortWordsSorted\p05_ShortWordsSorted\obj\Debug\p05_ShortWordsSorted.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p05_ShortWordsSorted\p05_ShortWordsSorted\obj\Debug\p05_ShortWordsSorted.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p05_ShortWordsSorted\p05_ShortWordsSorted\obj\Debug\p05_ShortWordsSorted.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p05_ShortWordsSorted\p05_ShortWordsSorted\obj\Debug\p05_ShortWordsSorted.pdb

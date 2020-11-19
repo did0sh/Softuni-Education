@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p07_BombNumbers", "p07_BombNumbers\p07_BombNumbers.csproj", "{ABB144CD-996A-4CBD-8404-7E8CDF5CFDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB144CD-996A-4CBD-8404-7E8CDF5CFDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB144CD-996A-4CBD-8404-7E8CDF5CFDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB144CD-996A-4CBD-8404-7E8CDF5CFDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB144CD-996A-4CBD-8404-7E8CDF5CFDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88241F61-3DBE-4FBB-B572-9EDE59F1EE96}
+	EndGlobalSection
+EndGlobal

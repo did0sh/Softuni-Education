@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\p08_CenterPoint\p08_CenterPoint\obj\Debug\p08_CenterPoint.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\p08_CenterPoint\p08_CenterPoint\obj\Debug\p08_CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p08_CenterPoint\p08_CenterPoint\bin\Debug\p08_CenterPoint.exe.config
+C:\Users\user\source\repos\p08_CenterPoint\p08_CenterPoint\bin\Debug\p08_CenterPoint.exe
+C:\Users\user\source\repos\p08_CenterPoint\p08_CenterPoint\bin\Debug\p08_CenterPoint.pdb
+C:\Users\user\source\repos\p08_CenterPoint\p08_CenterPoint\obj\Debug\p08_CenterPoint.exe
+C:\Users\user\source\repos\p08_CenterPoint\p08_CenterPoint\obj\Debug\p08_CenterPoint.pdb

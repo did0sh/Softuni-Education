@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Lab\p03_SumMinMaxAverage\p03_SumMinMaxAverage\bin\Debug\p03_SumMinMaxAverage.exe.config
+C:\Users\user\source\repos\Dictionaries-Lab\p03_SumMinMaxAverage\p03_SumMinMaxAverage\bin\Debug\p03_SumMinMaxAverage.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p03_SumMinMaxAverage\p03_SumMinMaxAverage\bin\Debug\p03_SumMinMaxAverage.pdb
+C:\Users\user\source\repos\Dictionaries-Lab\p03_SumMinMaxAverage\p03_SumMinMaxAverage\obj\Debug\p03_SumMinMaxAverage.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p03_SumMinMaxAverage\p03_SumMinMaxAverage\obj\Debug\p03_SumMinMaxAverage.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p03_SumMinMaxAverage\p03_SumMinMaxAverage\obj\Debug\p03_SumMinMaxAverage.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p03_SumMinMaxAverage\p03_SumMinMaxAverage\obj\Debug\p03_SumMinMaxAverage.pdb

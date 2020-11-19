@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\RegEx - Lab\p03_MatchHexadecimalNumbers\p03_MatchHexadecimalNumbers\bin\Debug\p03_MatchHexadecimalNumbers.exe.config
+C:\Users\user\source\repos\RegEx - Lab\p03_MatchHexadecimalNumbers\p03_MatchHexadecimalNumbers\bin\Debug\p03_MatchHexadecimalNumbers.exe
+C:\Users\user\source\repos\RegEx - Lab\p03_MatchHexadecimalNumbers\p03_MatchHexadecimalNumbers\bin\Debug\p03_MatchHexadecimalNumbers.pdb
+C:\Users\user\source\repos\RegEx - Lab\p03_MatchHexadecimalNumbers\p03_MatchHexadecimalNumbers\obj\Debug\p03_MatchHexadecimalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegEx - Lab\p03_MatchHexadecimalNumbers\p03_MatchHexadecimalNumbers\obj\Debug\p03_MatchHexadecimalNumbers.exe
+C:\Users\user\source\repos\RegEx - Lab\p03_MatchHexadecimalNumbers\p03_MatchHexadecimalNumbers\obj\Debug\p03_MatchHexadecimalNumbers.pdb

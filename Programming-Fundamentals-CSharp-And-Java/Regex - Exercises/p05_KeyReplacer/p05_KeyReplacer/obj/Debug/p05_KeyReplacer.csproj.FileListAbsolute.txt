@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Regex - Exercises\p05_KeyReplacer\p05_KeyReplacer\bin\Debug\p05_KeyReplacer.exe.config
+C:\Users\user\source\repos\Regex - Exercises\p05_KeyReplacer\p05_KeyReplacer\bin\Debug\p05_KeyReplacer.exe
+C:\Users\user\source\repos\Regex - Exercises\p05_KeyReplacer\p05_KeyReplacer\bin\Debug\p05_KeyReplacer.pdb
+C:\Users\user\source\repos\Regex - Exercises\p05_KeyReplacer\p05_KeyReplacer\obj\Debug\p05_KeyReplacer.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Regex - Exercises\p05_KeyReplacer\p05_KeyReplacer\obj\Debug\p05_KeyReplacer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Regex - Exercises\p05_KeyReplacer\p05_KeyReplacer\obj\Debug\p05_KeyReplacer.exe
+C:\Users\user\source\repos\Regex - Exercises\p05_KeyReplacer\p05_KeyReplacer\obj\Debug\p05_KeyReplacer.pdb

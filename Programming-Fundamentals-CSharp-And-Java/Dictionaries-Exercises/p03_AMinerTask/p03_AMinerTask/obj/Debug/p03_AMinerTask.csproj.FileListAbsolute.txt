@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Exercises\p03_AMinerTask\p03_AMinerTask\obj\Debug\p03_AMinerTask.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p03_AMinerTask\p03_AMinerTask\obj\Debug\p03_AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p03_AMinerTask\p03_AMinerTask\bin\Debug\p03_AMinerTask.exe.config
+C:\Users\user\source\repos\Dictionaries-Exercises\p03_AMinerTask\p03_AMinerTask\bin\Debug\p03_AMinerTask.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p03_AMinerTask\p03_AMinerTask\bin\Debug\p03_AMinerTask.pdb
+C:\Users\user\source\repos\Dictionaries-Exercises\p03_AMinerTask\p03_AMinerTask\obj\Debug\p03_AMinerTask.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p03_AMinerTask\p03_AMinerTask\obj\Debug\p03_AMinerTask.pdb

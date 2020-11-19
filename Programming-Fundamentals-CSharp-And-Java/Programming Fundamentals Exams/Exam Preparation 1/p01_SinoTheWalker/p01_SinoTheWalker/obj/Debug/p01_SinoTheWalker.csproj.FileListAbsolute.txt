@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 1\p01_SinoTheWalker\p01_SinoTheWalker\bin\Debug\p01_SinoTheWalker.exe.config
+C:\Users\user\source\repos\Exam Preparation 1\p01_SinoTheWalker\p01_SinoTheWalker\bin\Debug\p01_SinoTheWalker.exe
+C:\Users\user\source\repos\Exam Preparation 1\p01_SinoTheWalker\p01_SinoTheWalker\bin\Debug\p01_SinoTheWalker.pdb
+C:\Users\user\source\repos\Exam Preparation 1\p01_SinoTheWalker\p01_SinoTheWalker\obj\Debug\p01_SinoTheWalker.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 1\p01_SinoTheWalker\p01_SinoTheWalker\obj\Debug\p01_SinoTheWalker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 1\p01_SinoTheWalker\p01_SinoTheWalker\obj\Debug\p01_SinoTheWalker.exe
+C:\Users\user\source\repos\Exam Preparation 1\p01_SinoTheWalker\p01_SinoTheWalker\obj\Debug\p01_SinoTheWalker.pdb

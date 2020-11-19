@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Dictionaries-Lab\p02_OddOccurrences\p02_OddOccurrences\bin\Debug\p02_OddOccurrences.exe.config
+C:\Users\user\source\repos\Dictionaries-Lab\p02_OddOccurrences\p02_OddOccurrences\bin\Debug\p02_OddOccurrences.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p02_OddOccurrences\p02_OddOccurrences\bin\Debug\p02_OddOccurrences.pdb
+C:\Users\user\source\repos\Dictionaries-Lab\p02_OddOccurrences\p02_OddOccurrences\obj\Debug\p02_OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Lab\p02_OddOccurrences\p02_OddOccurrences\obj\Debug\p02_OddOccurrences.exe
+C:\Users\user\source\repos\Dictionaries-Lab\p02_OddOccurrences\p02_OddOccurrences\obj\Debug\p02_OddOccurrences.pdb

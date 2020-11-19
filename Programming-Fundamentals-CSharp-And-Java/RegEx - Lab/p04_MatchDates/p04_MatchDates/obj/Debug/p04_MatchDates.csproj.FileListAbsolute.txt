@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\RegEx - Lab\p04_MatchDates\p04_MatchDates\bin\Debug\p04_MatchDates.exe.config
+C:\Users\user\source\repos\RegEx - Lab\p04_MatchDates\p04_MatchDates\bin\Debug\p04_MatchDates.exe
+C:\Users\user\source\repos\RegEx - Lab\p04_MatchDates\p04_MatchDates\bin\Debug\p04_MatchDates.pdb
+C:\Users\user\source\repos\RegEx - Lab\p04_MatchDates\p04_MatchDates\obj\Debug\p04_MatchDates.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\RegEx - Lab\p04_MatchDates\p04_MatchDates\obj\Debug\p04_MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegEx - Lab\p04_MatchDates\p04_MatchDates\obj\Debug\p04_MatchDates.exe
+C:\Users\user\source\repos\RegEx - Lab\p04_MatchDates\p04_MatchDates\obj\Debug\p04_MatchDates.pdb

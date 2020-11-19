@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p06_FoldAndSum", "p06_FoldAndSum\p06_FoldAndSum.csproj", "{1AE1BD23-3365-42CE-8592-F89FEA835482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE1BD23-3365-42CE-8592-F89FEA835482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE1BD23-3365-42CE-8592-F89FEA835482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE1BD23-3365-42CE-8592-F89FEA835482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE1BD23-3365-42CE-8592-F89FEA835482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0377D319-7287-42D6-B744-C5426C73391D}
+	EndGlobalSection
+EndGlobal

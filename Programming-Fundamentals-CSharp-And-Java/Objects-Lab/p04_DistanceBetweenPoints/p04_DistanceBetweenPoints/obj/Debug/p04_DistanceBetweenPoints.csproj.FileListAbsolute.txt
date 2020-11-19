@@ -1,0 +1,7 @@
+C:\Users\user\source\Objects-Lab\p04_DistanceBetweenPoints\p04_DistanceBetweenPoints\bin\Debug\p04_DistanceBetweenPoints.exe.config
+C:\Users\user\source\Objects-Lab\p04_DistanceBetweenPoints\p04_DistanceBetweenPoints\bin\Debug\p04_DistanceBetweenPoints.exe
+C:\Users\user\source\Objects-Lab\p04_DistanceBetweenPoints\p04_DistanceBetweenPoints\bin\Debug\p04_DistanceBetweenPoints.pdb
+C:\Users\user\source\Objects-Lab\p04_DistanceBetweenPoints\p04_DistanceBetweenPoints\obj\Debug\p04_DistanceBetweenPoints.csprojResolveAssemblyReference.cache
+C:\Users\user\source\Objects-Lab\p04_DistanceBetweenPoints\p04_DistanceBetweenPoints\obj\Debug\p04_DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+C:\Users\user\source\Objects-Lab\p04_DistanceBetweenPoints\p04_DistanceBetweenPoints\obj\Debug\p04_DistanceBetweenPoints.exe
+C:\Users\user\source\Objects-Lab\p04_DistanceBetweenPoints\p04_DistanceBetweenPoints\obj\Debug\p04_DistanceBetweenPoints.pdb

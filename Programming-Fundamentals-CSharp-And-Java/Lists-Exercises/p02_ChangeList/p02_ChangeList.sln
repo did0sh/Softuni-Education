@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p02_ChangeList", "p02_ChangeList\p02_ChangeList.csproj", "{5498CF92-4401-4EF1-B6A5-0131A8FB93C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5498CF92-4401-4EF1-B6A5-0131A8FB93C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5498CF92-4401-4EF1-B6A5-0131A8FB93C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5498CF92-4401-4EF1-B6A5-0131A8FB93C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5498CF92-4401-4EF1-B6A5-0131A8FB93C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FBB792-21F7-4B47-8C55-428B823D51A6}
+	EndGlobalSection
+EndGlobal

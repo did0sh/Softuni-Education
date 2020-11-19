@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Exercises\p07_PopulationCounter\p07_PopulationCounter\bin\Debug\p07_PopulationCounter.exe.config
+C:\Users\user\source\repos\Dictionaries-Exercises\p07_PopulationCounter\p07_PopulationCounter\bin\Debug\p07_PopulationCounter.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p07_PopulationCounter\p07_PopulationCounter\bin\Debug\p07_PopulationCounter.pdb
+C:\Users\user\source\repos\Dictionaries-Exercises\p07_PopulationCounter\p07_PopulationCounter\obj\Debug\p07_PopulationCounter.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p07_PopulationCounter\p07_PopulationCounter\obj\Debug\p07_PopulationCounter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p07_PopulationCounter\p07_PopulationCounter\obj\Debug\p07_PopulationCounter.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p07_PopulationCounter\p07_PopulationCounter\obj\Debug\p07_PopulationCounter.pdb

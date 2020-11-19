@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 1\p04_WinningTicket\p04_WinningTicket\bin\Debug\p04_WinningTicket.exe.config
+C:\Users\user\source\repos\Exam Preparation 1\p04_WinningTicket\p04_WinningTicket\bin\Debug\p04_WinningTicket.exe
+C:\Users\user\source\repos\Exam Preparation 1\p04_WinningTicket\p04_WinningTicket\bin\Debug\p04_WinningTicket.pdb
+C:\Users\user\source\repos\Exam Preparation 1\p04_WinningTicket\p04_WinningTicket\obj\Debug\p04_WinningTicket.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 1\p04_WinningTicket\p04_WinningTicket\obj\Debug\p04_WinningTicket.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 1\p04_WinningTicket\p04_WinningTicket\obj\Debug\p04_WinningTicket.exe
+C:\Users\user\source\repos\Exam Preparation 1\p04_WinningTicket\p04_WinningTicket\obj\Debug\p04_WinningTicket.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Files & Exceptions - Lab\p02_LineNumbers\p02_LineNumbers\bin\Debug\p02_LineNumbers.exe.config
+C:\Users\user\source\repos\Files & Exceptions - Lab\p02_LineNumbers\p02_LineNumbers\bin\Debug\p02_LineNumbers.exe
+C:\Users\user\source\repos\Files & Exceptions - Lab\p02_LineNumbers\p02_LineNumbers\bin\Debug\p02_LineNumbers.pdb
+C:\Users\user\source\repos\Files & Exceptions - Lab\p02_LineNumbers\p02_LineNumbers\obj\Debug\p02_LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Files & Exceptions - Lab\p02_LineNumbers\p02_LineNumbers\obj\Debug\p02_LineNumbers.exe
+C:\Users\user\source\repos\Files & Exceptions - Lab\p02_LineNumbers\p02_LineNumbers\obj\Debug\p02_LineNumbers.pdb

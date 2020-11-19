@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Exercises\p05_ArrayManipulator\p05_ArrayManipulator\bin\Debug\p05_ArrayManipulator.exe.config
+C:\Users\user\source\repos\Lists-Exercises\p05_ArrayManipulator\p05_ArrayManipulator\bin\Debug\p05_ArrayManipulator.exe
+C:\Users\user\source\repos\Lists-Exercises\p05_ArrayManipulator\p05_ArrayManipulator\bin\Debug\p05_ArrayManipulator.pdb
+C:\Users\user\source\repos\Lists-Exercises\p05_ArrayManipulator\p05_ArrayManipulator\obj\Debug\p05_ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Exercises\p05_ArrayManipulator\p05_ArrayManipulator\obj\Debug\p05_ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Exercises\p05_ArrayManipulator\p05_ArrayManipulator\obj\Debug\p05_ArrayManipulator.exe
+C:\Users\user\source\repos\Lists-Exercises\p05_ArrayManipulator\p05_ArrayManipulator\obj\Debug\p05_ArrayManipulator.pdb

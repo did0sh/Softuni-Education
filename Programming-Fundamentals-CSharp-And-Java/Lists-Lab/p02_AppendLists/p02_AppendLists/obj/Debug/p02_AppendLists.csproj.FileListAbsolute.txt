@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Lab\p02_AppendLists\p02_AppendLists\obj\Debug\p02_AppendLists.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Lab\p02_AppendLists\p02_AppendLists\obj\Debug\p02_AppendLists.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Lab\p02_AppendLists\p02_AppendLists\bin\Debug\p02_AppendLists.exe.config
+C:\Users\user\source\repos\Lists-Lab\p02_AppendLists\p02_AppendLists\bin\Debug\p02_AppendLists.exe
+C:\Users\user\source\repos\Lists-Lab\p02_AppendLists\p02_AppendLists\bin\Debug\p02_AppendLists.pdb
+C:\Users\user\source\repos\Lists-Lab\p02_AppendLists\p02_AppendLists\obj\Debug\p02_AppendLists.exe
+C:\Users\user\source\repos\Lists-Lab\p02_AppendLists\p02_AppendLists\obj\Debug\p02_AppendLists.pdb

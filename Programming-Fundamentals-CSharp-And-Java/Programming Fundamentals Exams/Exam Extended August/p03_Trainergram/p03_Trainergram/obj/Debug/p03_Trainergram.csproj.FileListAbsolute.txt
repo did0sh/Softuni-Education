@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended August\p03_Trainergram\p03_Trainergram\bin\Debug\p03_Trainergram.exe.config
+C:\Users\user\source\repos\Exam Extended August\p03_Trainergram\p03_Trainergram\bin\Debug\p03_Trainergram.exe
+C:\Users\user\source\repos\Exam Extended August\p03_Trainergram\p03_Trainergram\bin\Debug\p03_Trainergram.pdb
+C:\Users\user\source\repos\Exam Extended August\p03_Trainergram\p03_Trainergram\obj\Debug\p03_Trainergram.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended August\p03_Trainergram\p03_Trainergram\obj\Debug\p03_Trainergram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended August\p03_Trainergram\p03_Trainergram\obj\Debug\p03_Trainergram.exe
+C:\Users\user\source\repos\Exam Extended August\p03_Trainergram\p03_Trainergram\obj\Debug\p03_Trainergram.pdb

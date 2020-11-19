@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 1\p02_SoftuniKaraoke\p02_SoftuniKaraoke\bin\Debug\p02_SoftuniKaraoke.exe.config
+C:\Users\user\source\repos\Exam Preparation 1\p02_SoftuniKaraoke\p02_SoftuniKaraoke\bin\Debug\p02_SoftuniKaraoke.exe
+C:\Users\user\source\repos\Exam Preparation 1\p02_SoftuniKaraoke\p02_SoftuniKaraoke\bin\Debug\p02_SoftuniKaraoke.pdb
+C:\Users\user\source\repos\Exam Preparation 1\p02_SoftuniKaraoke\p02_SoftuniKaraoke\obj\Debug\p02_SoftuniKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 1\p02_SoftuniKaraoke\p02_SoftuniKaraoke\obj\Debug\p02_SoftuniKaraoke.exe
+C:\Users\user\source\repos\Exam Preparation 1\p02_SoftuniKaraoke\p02_SoftuniKaraoke\obj\Debug\p02_SoftuniKaraoke.pdb
+C:\Users\user\source\repos\Exam Preparation 1\p02_SoftuniKaraoke\p02_SoftuniKaraoke\obj\Debug\p02_SoftuniKaraoke.csprojResolveAssemblyReference.cache

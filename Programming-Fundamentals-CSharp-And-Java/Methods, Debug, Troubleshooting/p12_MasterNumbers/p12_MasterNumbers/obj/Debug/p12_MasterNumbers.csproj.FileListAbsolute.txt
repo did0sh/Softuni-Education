@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\p12_MasterNumbers\p12_MasterNumbers\bin\Debug\p12_MasterNumbers.exe.config
+C:\Users\user\source\repos\p12_MasterNumbers\p12_MasterNumbers\bin\Debug\p12_MasterNumbers.exe
+C:\Users\user\source\repos\p12_MasterNumbers\p12_MasterNumbers\bin\Debug\p12_MasterNumbers.pdb
+C:\Users\user\source\repos\p12_MasterNumbers\p12_MasterNumbers\obj\Debug\p12_MasterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\p12_MasterNumbers\p12_MasterNumbers\obj\Debug\p12_MasterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p12_MasterNumbers\p12_MasterNumbers\obj\Debug\p12_MasterNumbers.exe
+C:\Users\user\source\repos\p12_MasterNumbers\p12_MasterNumbers\obj\Debug\p12_MasterNumbers.pdb

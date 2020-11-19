@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Preparation 2\p02_LadyBug\p02_LadyBug\bin\Debug\p02_LadyBug.exe.config
+C:\Users\user\source\repos\Exam Preparation 2\p02_LadyBug\p02_LadyBug\bin\Debug\p02_LadyBug.exe
+C:\Users\user\source\repos\Exam Preparation 2\p02_LadyBug\p02_LadyBug\bin\Debug\p02_LadyBug.pdb
+C:\Users\user\source\repos\Exam Preparation 2\p02_LadyBug\p02_LadyBug\obj\Debug\p02_LadyBug.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Preparation 2\p02_LadyBug\p02_LadyBug\obj\Debug\p02_LadyBug.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Preparation 2\p02_LadyBug\p02_LadyBug\obj\Debug\p02_LadyBug.exe
+C:\Users\user\source\repos\Exam Preparation 2\p02_LadyBug\p02_LadyBug\obj\Debug\p02_LadyBug.pdb

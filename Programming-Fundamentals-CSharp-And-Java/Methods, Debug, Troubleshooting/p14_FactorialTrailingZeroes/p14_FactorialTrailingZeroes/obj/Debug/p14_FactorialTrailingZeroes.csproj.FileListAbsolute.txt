@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\p14_FactorialTrailingZeroes\p14_FactorialTrailingZeroes\obj\Debug\p14_FactorialTrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\p14_FactorialTrailingZeroes\p14_FactorialTrailingZeroes\obj\Debug\p14_FactorialTrailingZeroes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\p14_FactorialTrailingZeroes\p14_FactorialTrailingZeroes\bin\Debug\p14_FactorialTrailingZeroes.exe.config
+C:\Users\user\source\repos\p14_FactorialTrailingZeroes\p14_FactorialTrailingZeroes\bin\Debug\p14_FactorialTrailingZeroes.exe
+C:\Users\user\source\repos\p14_FactorialTrailingZeroes\p14_FactorialTrailingZeroes\bin\Debug\p14_FactorialTrailingZeroes.pdb
+C:\Users\user\source\repos\p14_FactorialTrailingZeroes\p14_FactorialTrailingZeroes\obj\Debug\p14_FactorialTrailingZeroes.exe
+C:\Users\user\source\repos\p14_FactorialTrailingZeroes\p14_FactorialTrailingZeroes\obj\Debug\p14_FactorialTrailingZeroes.pdb

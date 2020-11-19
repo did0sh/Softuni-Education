@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Dictionaries-Exercises\p01_\p01_\bin\Debug\p01_.exe.config
+C:\Users\user\source\repos\Dictionaries-Exercises\p01_\p01_\bin\Debug\p01_.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p01_\p01_\bin\Debug\p01_.pdb
+C:\Users\user\source\repos\Dictionaries-Exercises\p01_\p01_\obj\Debug\p01_.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p01_\p01_\obj\Debug\p01_.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dictionaries-Exercises\p01_\p01_\obj\Debug\p01_.exe
+C:\Users\user\source\repos\Dictionaries-Exercises\p01_\p01_\obj\Debug\p01_.pdb

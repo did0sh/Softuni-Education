@@ -1,0 +1,7 @@
+C:\Users\user\source\Objects-Lab\p03_BigFactorial\p03_BigFactorial\bin\Debug\p03_BigFactorial.exe.config
+C:\Users\user\source\Objects-Lab\p03_BigFactorial\p03_BigFactorial\bin\Debug\p03_BigFactorial.exe
+C:\Users\user\source\Objects-Lab\p03_BigFactorial\p03_BigFactorial\bin\Debug\p03_BigFactorial.pdb
+C:\Users\user\source\Objects-Lab\p03_BigFactorial\p03_BigFactorial\obj\Debug\p03_BigFactorial.csprojResolveAssemblyReference.cache
+C:\Users\user\source\Objects-Lab\p03_BigFactorial\p03_BigFactorial\obj\Debug\p03_BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\user\source\Objects-Lab\p03_BigFactorial\p03_BigFactorial\obj\Debug\p03_BigFactorial.exe
+C:\Users\user\source\Objects-Lab\p03_BigFactorial\p03_BigFactorial\obj\Debug\p03_BigFactorial.pdb

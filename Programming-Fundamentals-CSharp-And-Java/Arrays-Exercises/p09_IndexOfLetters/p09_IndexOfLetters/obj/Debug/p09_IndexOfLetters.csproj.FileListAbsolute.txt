@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arrays-Exercises\p09_IndexOfLetters\p09_IndexOfLetters\bin\Debug\p09_IndexOfLetters.exe.config
+C:\Users\user\source\repos\Arrays-Exercises\p09_IndexOfLetters\p09_IndexOfLetters\bin\Debug\p09_IndexOfLetters.exe
+C:\Users\user\source\repos\Arrays-Exercises\p09_IndexOfLetters\p09_IndexOfLetters\bin\Debug\p09_IndexOfLetters.pdb
+C:\Users\user\source\repos\Arrays-Exercises\p09_IndexOfLetters\p09_IndexOfLetters\obj\Debug\p09_IndexOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Arrays-Exercises\p09_IndexOfLetters\p09_IndexOfLetters\obj\Debug\p09_IndexOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Exercises\p09_IndexOfLetters\p09_IndexOfLetters\obj\Debug\p09_IndexOfLetters.exe
+C:\Users\user\source\repos\Arrays-Exercises\p09_IndexOfLetters\p09_IndexOfLetters\obj\Debug\p09_IndexOfLetters.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Objects-Exercises\p06_BookLibraryModification\p06_BookLibraryModification\bin\Debug\p06_BookLibraryModification.exe.config
+C:\Users\user\source\repos\Objects-Exercises\p06_BookLibraryModification\p06_BookLibraryModification\bin\Debug\p06_BookLibraryModification.exe
+C:\Users\user\source\repos\Objects-Exercises\p06_BookLibraryModification\p06_BookLibraryModification\bin\Debug\p06_BookLibraryModification.pdb
+C:\Users\user\source\repos\Objects-Exercises\p06_BookLibraryModification\p06_BookLibraryModification\obj\Debug\p06_BookLibraryModification.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Objects-Exercises\p06_BookLibraryModification\p06_BookLibraryModification\obj\Debug\p06_BookLibraryModification.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Objects-Exercises\p06_BookLibraryModification\p06_BookLibraryModification\obj\Debug\p06_BookLibraryModification.exe
+C:\Users\user\source\repos\Objects-Exercises\p06_BookLibraryModification\p06_BookLibraryModification\obj\Debug\p06_BookLibraryModification.pdb

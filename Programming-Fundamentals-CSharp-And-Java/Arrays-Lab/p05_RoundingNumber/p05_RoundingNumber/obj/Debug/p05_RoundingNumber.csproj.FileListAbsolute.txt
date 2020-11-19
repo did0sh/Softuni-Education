@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Arrays-Lab\p05_RoundingNumber\p05_RoundingNumber\bin\Debug\p05_RoundingNumber.exe.config
+C:\Users\user\source\repos\Arrays-Lab\p05_RoundingNumber\p05_RoundingNumber\bin\Debug\p05_RoundingNumber.exe
+C:\Users\user\source\repos\Arrays-Lab\p05_RoundingNumber\p05_RoundingNumber\bin\Debug\p05_RoundingNumber.pdb
+C:\Users\user\source\repos\Arrays-Lab\p05_RoundingNumber\p05_RoundingNumber\obj\Debug\p05_RoundingNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arrays-Lab\p05_RoundingNumber\p05_RoundingNumber\obj\Debug\p05_RoundingNumber.exe
+C:\Users\user\source\repos\Arrays-Lab\p05_RoundingNumber\p05_RoundingNumber\obj\Debug\p05_RoundingNumber.pdb

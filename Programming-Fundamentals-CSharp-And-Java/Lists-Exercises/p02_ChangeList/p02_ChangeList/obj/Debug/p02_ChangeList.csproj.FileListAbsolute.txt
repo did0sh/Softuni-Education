@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Lists-Exercises\p02_ChangeList\p02_ChangeList\bin\Debug\p02_ChangeList.exe.config
+C:\Users\user\source\repos\Lists-Exercises\p02_ChangeList\p02_ChangeList\bin\Debug\p02_ChangeList.exe
+C:\Users\user\source\repos\Lists-Exercises\p02_ChangeList\p02_ChangeList\bin\Debug\p02_ChangeList.pdb
+C:\Users\user\source\repos\Lists-Exercises\p02_ChangeList\p02_ChangeList\obj\Debug\p02_ChangeList.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lists-Exercises\p02_ChangeList\p02_ChangeList\obj\Debug\p02_ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lists-Exercises\p02_ChangeList\p02_ChangeList\obj\Debug\p02_ChangeList.exe
+C:\Users\user\source\repos\Lists-Exercises\p02_ChangeList\p02_ChangeList\obj\Debug\p02_ChangeList.pdb

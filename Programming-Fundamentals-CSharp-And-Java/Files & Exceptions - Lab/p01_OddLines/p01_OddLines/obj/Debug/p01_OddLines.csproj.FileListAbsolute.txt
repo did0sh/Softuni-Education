@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Files & Exceptions - Lab\p01_OddLines\p01_OddLines\bin\Debug\p01_OddLines.exe.config
+C:\Users\user\source\repos\Files & Exceptions - Lab\p01_OddLines\p01_OddLines\bin\Debug\p01_OddLines.exe
+C:\Users\user\source\repos\Files & Exceptions - Lab\p01_OddLines\p01_OddLines\bin\Debug\p01_OddLines.pdb
+C:\Users\user\source\repos\Files & Exceptions - Lab\p01_OddLines\p01_OddLines\obj\Debug\p01_OddLines.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Files & Exceptions - Lab\p01_OddLines\p01_OddLines\obj\Debug\p01_OddLines.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Files & Exceptions - Lab\p01_OddLines\p01_OddLines\obj\Debug\p01_OddLines.exe
+C:\Users\user\source\repos\Files & Exceptions - Lab\p01_OddLines\p01_OddLines\obj\Debug\p01_OddLines.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p07_MultiplyBigNumbers\p07_MultiplyBigNumbers\bin\Debug\p07_MultiplyBigNumbers.exe.config
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p07_MultiplyBigNumbers\p07_MultiplyBigNumbers\bin\Debug\p07_MultiplyBigNumbers.exe
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p07_MultiplyBigNumbers\p07_MultiplyBigNumbers\bin\Debug\p07_MultiplyBigNumbers.pdb
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p07_MultiplyBigNumbers\p07_MultiplyBigNumbers\obj\Debug\p07_MultiplyBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p07_MultiplyBigNumbers\p07_MultiplyBigNumbers\obj\Debug\p07_MultiplyBigNumbers.exe
+C:\Users\user\source\repos\Strings and TextProcessing - Exercises\p07_MultiplyBigNumbers\p07_MultiplyBigNumbers\obj\Debug\p07_MultiplyBigNumbers.pdb

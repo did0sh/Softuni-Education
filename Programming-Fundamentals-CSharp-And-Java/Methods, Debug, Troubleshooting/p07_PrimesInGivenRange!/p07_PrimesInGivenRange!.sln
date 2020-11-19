@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p07_PrimesInGivenRange!", "p07_PrimesInGivenRange!\p07_PrimesInGivenRange!.csproj", "{B762FD35-74CD-414D-90B1-F51BCD073042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B762FD35-74CD-414D-90B1-F51BCD073042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B762FD35-74CD-414D-90B1-F51BCD073042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B762FD35-74CD-414D-90B1-F51BCD073042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B762FD35-74CD-414D-90B1-F51BCD073042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC3BFD2-85D9-4EB3-AB4F-BD2EA3E0F482}
+	EndGlobalSection
+EndGlobal

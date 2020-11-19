@@ -1,0 +1,7 @@
+C:\Users\user\source\Objects-Lab\p05_ClosestTwoPoints\p05_ClosestTwoPoints\bin\Debug\p05_ClosestTwoPoints.exe.config
+C:\Users\user\source\Objects-Lab\p05_ClosestTwoPoints\p05_ClosestTwoPoints\bin\Debug\p05_ClosestTwoPoints.exe
+C:\Users\user\source\Objects-Lab\p05_ClosestTwoPoints\p05_ClosestTwoPoints\bin\Debug\p05_ClosestTwoPoints.pdb
+C:\Users\user\source\Objects-Lab\p05_ClosestTwoPoints\p05_ClosestTwoPoints\obj\Debug\p05_ClosestTwoPoints.csprojResolveAssemblyReference.cache
+C:\Users\user\source\Objects-Lab\p05_ClosestTwoPoints\p05_ClosestTwoPoints\obj\Debug\p05_ClosestTwoPoints.csproj.CoreCompileInputs.cache
+C:\Users\user\source\Objects-Lab\p05_ClosestTwoPoints\p05_ClosestTwoPoints\obj\Debug\p05_ClosestTwoPoints.exe
+C:\Users\user\source\Objects-Lab\p05_ClosestTwoPoints\p05_ClosestTwoPoints\obj\Debug\p05_ClosestTwoPoints.pdb

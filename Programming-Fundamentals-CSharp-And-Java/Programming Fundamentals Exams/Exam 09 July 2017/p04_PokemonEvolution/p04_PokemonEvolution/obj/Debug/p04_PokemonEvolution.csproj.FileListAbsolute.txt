@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam 09 July 2017\p04_PokemonEvolution\p04_PokemonEvolution\bin\Debug\p04_PokemonEvolution.exe.config
+C:\Users\user\source\repos\Exam 09 July 2017\p04_PokemonEvolution\p04_PokemonEvolution\bin\Debug\p04_PokemonEvolution.exe
+C:\Users\user\source\repos\Exam 09 July 2017\p04_PokemonEvolution\p04_PokemonEvolution\bin\Debug\p04_PokemonEvolution.pdb
+C:\Users\user\source\repos\Exam 09 July 2017\p04_PokemonEvolution\p04_PokemonEvolution\obj\Debug\p04_PokemonEvolution.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam 09 July 2017\p04_PokemonEvolution\p04_PokemonEvolution\obj\Debug\p04_PokemonEvolution.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam 09 July 2017\p04_PokemonEvolution\p04_PokemonEvolution\obj\Debug\p04_PokemonEvolution.exe
+C:\Users\user\source\repos\Exam 09 July 2017\p04_PokemonEvolution\p04_PokemonEvolution\obj\Debug\p04_PokemonEvolution.pdb

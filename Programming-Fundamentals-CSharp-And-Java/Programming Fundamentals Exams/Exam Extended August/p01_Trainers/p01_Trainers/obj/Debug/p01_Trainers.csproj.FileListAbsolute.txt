@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Exam Extended August\p01_Trainers\p01_Trainers\bin\Debug\p01_Trainers.exe.config
+C:\Users\user\source\repos\Exam Extended August\p01_Trainers\p01_Trainers\bin\Debug\p01_Trainers.exe
+C:\Users\user\source\repos\Exam Extended August\p01_Trainers\p01_Trainers\bin\Debug\p01_Trainers.pdb
+C:\Users\user\source\repos\Exam Extended August\p01_Trainers\p01_Trainers\obj\Debug\p01_Trainers.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam Extended August\p01_Trainers\p01_Trainers\obj\Debug\p01_Trainers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam Extended August\p01_Trainers\p01_Trainers\obj\Debug\p01_Trainers.exe
+C:\Users\user\source\repos\Exam Extended August\p01_Trainers\p01_Trainers\obj\Debug\p01_Trainers.pdb

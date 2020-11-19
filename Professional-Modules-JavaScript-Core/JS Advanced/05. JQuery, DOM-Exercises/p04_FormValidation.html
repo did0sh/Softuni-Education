@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Validation</title>
+    <link rel="stylesheet" href="p04_style.css">
+    <script src="jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <form id="registerForm">
+        <fieldset id="userInfo">
+            <legend>User Information:</legend>
+            <div class="pairContainer">
+                <label for="username">Userame:</label>
+                <input id="username" type="text">
+            </div>
+            <div class="pairContainer">
+                <label for="email">Email:</label>
+                <input id="email" type="text">
+            </div>
+            <div class="pairContainer">
+                <label for="password">Password:</label>
+                <input id="password" type="password">
+            </div>
+            <div class="pairContainer">
+                <label for="confirm-password">Confirm Password:</label>
+                <input id="confirm-password" type="password">
+            </div>
+            <div class="pairContainer">
+                <label for="company">Is Company?</label>
+                <input id="company" type="checkbox">
+            </div>
+        </fieldset>
+        <fieldset id="companyInfo" style="display: none;">
+            <legend>Company Informaion:</legend>
+            <div class="pairContainer">
+                <label for="companyNumber">Company Number</label>
+                <input id="companyNumber" type="number">
+            </div>
+        </fieldset>
+        <button id="submit">Submit</button>
+    </form>
+    <div id="valid" style="display: none">Valid</div>
+</div>
+<script>
+    window.onload = function(){
+        validate();
+    };
+    function validate() {
+        let username = $('#username');
+        let email = $('#email');
+        let password = $('#password');
+        let confPass = $('#confirm-password');
+        let company = $('#company');
+        let companyNumber = $('#companyNumber');
+        let button = $('#submit');
+        button.attr('href', '#');
+
+        username.on('change', checkUsername);
+        email.on('change', checkEmail);
+        password.on('change', checkPass);
+        confPass.on('change', checkConfPass);
+        company.on('click', displayInfo);
+        companyNumber.on('change', checkCompany);
+        button.on('click', checkFinal);
+
+        let validPass = true;
+        let checked = true;
+        
+        function checkUsername() {
+            let regex = /^[a-zA-Z0-9]{3,20}$/;
+            username.val().match(regex) ?
+                username.css('border-color', '') :
+                username.css('border-color', 'red');
+        }
+        
+        function checkEmail() {
+            let regex = /^.*@.*[\.]+.*$/;
+            email.val().match(regex) ?
+                email.css('border-color', '') :
+                email.css('border-color', 'red');
+        }
+        
+        function checkPass() {
+            let regex = /^\w{5,15}$/;
+            if(password.val().match(regex)) {
+                password.css('border-color', '');
+                validPass = true;
+            } else {
+                password.css('border-color', 'red');
+                validPass = false;
+            }
+
+
+        }
+
+        function checkConfPass() {
+            let regex = /^\w{5,15}$/;
+            if(validPass && confPass.val() === password.val()) {
+                confPass.css('border-color', '');
+                password.css('border-color', '');
+            } else {
+                confPass.css('border-color', 'red');
+                password.css('border-color', 'red');
+            }
+
+
+        }
+        
+        function displayInfo() {
+            if(checked === true){
+                $('#companyInfo').css('display', 'inline');
+                checked = false;
+            } else {
+                $('#companyInfo').css('display', 'none');
+                checked = true;
+            }
+        }
+
+        function checkCompany() {
+            if(companyNumber.val().length === 4){
+                let num = Number(companyNumber.val());
+                if(num >= 1000 && num <= 9999){
+                    companyNumber.css('border-color', '');
+                } else {
+                    companyNumber.css('border-color', 'red');
+                }
+            } else {
+                companyNumber.css('border-color', 'red');
+            }
+        }
+
+        function checkFinal(event) {
+            event.preventDefault();
+            if(document.getElementById('companyInfo').style.display === 'none'){
+                normalCheck();
+                let doc = Array.from(document.querySelectorAll('#userInfo input'));
+                console.log(doc);
+                doc.every(input => input.style.borderColor === '') ?
+                    $('#valid').css('display', 'inline') :
+                    $('#valid').css('display', 'none')
+            } else {
+                normalCheck();
+                checkCompany();
+                let doc = Array.from(document.querySelectorAll('#registerForm input'));
+                doc.every(input => input.style.borderColor === '') ?
+                    $('#valid').css('display', 'inline') :
+                    $('#valid').css('display', 'none')
+            }
+        }
+
+        function normalCheck() {
+            checkUsername();
+            checkEmail();
+            checkPass();
+            checkConfPass();
+        }
+    }
+</script>
+</body>
+</html>

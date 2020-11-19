@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Timer</title>
+    <script src="jquery-3.3.1.min.js"></script>
+    <style>
+        #timer {
+            font-size: 5em;
+        }
+    </style>
+</head>
+<body>
+<div id="timer">
+    <span id="hours" class="timer">00</span>:
+    <span id="minutes" class="timer">00</span>:
+    <span id="seconds" class="timer">00</span>
+    <button id="start-timer">Start</button>
+    <button id="stop-timer">Stop</button>
+</div>
+<script>
+    window.onload = function () {
+        timer();
+    };
+
+    function timer() {
+        let seconds = $('#seconds');
+        seconds.val(0);
+
+        let minutes = $('#minutes');
+        minutes.val(0);
+
+        let hours = $('#hours');
+        hours.val(0);
+
+        let start = $('#start-timer');
+        let stop = $('#stop-timer');
+
+        let intervalId = undefined;
+
+        start.on('click', function () {
+            if(!intervalId){
+                intervalId = setInterval(increase, 1000);
+            }
+        });
+
+        function increase() {
+            seconds.val(Number(seconds.val()) + 1);
+
+            formatNums(seconds);
+            formatNums(minutes);
+            formatNums(hours);
+
+            function formatNums(num) {
+                if(parseInt(num.val()) < 10){
+                    num.text(`0${num.val()}`)
+                } else {
+                    num.text(num.val());
+                }
+            }
+
+            if (parseInt(seconds.val()) === 59) {
+                seconds.val(-1);
+                minutes.val(Number(minutes.val()) + 1);
+
+                if (parseInt(minutes.val()) === 60) {
+                    minutes.val(0);
+                    hours.val(Number(hours.val()) + 1);
+                }
+            }
+
+        }
+
+        stop.on('click', function () {
+            clearInterval(intervalId);
+            intervalId = undefined;
+        })
+
+    }
+</script>
+</body>
+</html>

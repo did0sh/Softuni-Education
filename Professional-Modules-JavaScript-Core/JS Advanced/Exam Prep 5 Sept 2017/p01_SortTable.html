@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sort Table</title>
+    <style>
+        body {
+            padding: 30px;
+        }
+        table {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 5px 20px;
+        }
+        th {
+            background: #cccccc;
+        }
+        tr:nth-child(odd) {
+            background: #eeeeee;
+        }
+        tr:nth-child(even) {
+            background: #dddddd;
+        }
+        a {
+            color: black;
+            text-decoration: none;
+        }
+        a:hover {
+            color: white;
+        }
+        .active {
+            color: #99ff99;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+
+<h1>Sort Table</h1>
+<table id="products">
+    <thead>
+    <tr>
+        <th>Name <a href="javascript:sort(0, false)">&#x25B2;</a> <a href="javascript:sort(0, true)">&#x25BC;</a></th>
+        <th>Price <a href="javascript:sort(1, false)">&#x25B2;</a> <a href="javascript:sort(1, true)">&#x25BC;</a></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Potatoes</td>
+        <td>0.89</td>
+    </tr>
+    <tr>
+        <td>Tomatoes</td>
+        <td>2.30</td>
+    </tr>
+    <tr>
+        <td>Bananas</td>
+        <td>1.79</td>
+    </tr>
+    </tbody>
+</table>
+
+<script>
+    function sort(colIndex, descending) {
+        let all = $('#products tbody td');
+
+        //two array to sort the values
+        let prices = [];
+        let items = [];
+
+        //to append the correct key,value
+        let objItems = {};
+        let objPrices = {};
+
+        for (let i = 0; i < all.length; i+=2) {
+            let item = all[i].textContent;
+            let price = all[i+1].textContent;
+
+            items.push(item);
+            prices.push(price);
+
+            objItems[item] = price;
+            objPrices[price] = item;
+        }
+
+
+        //firstColumn ascending
+        if (colIndex === 0 && descending === false) {
+
+            items.sort((a, b) => a.localeCompare(b));
+            $('#products tbody tr').remove();
+
+            for (let key of items) {
+                let addSorted = ' <tr>\n' +
+                    `        <td>${key}</td>\n` +
+                    `        <td>${objItems[key]}</td>\n` +
+                    '    </tr>';
+
+                $('#products tbody').append(addSorted);
+            }
+
+            //firstColumn descending
+        } else if (colIndex === 0 && descending === true) {
+            items.sort((a, b) => b.localeCompare(a));
+            $('#products tbody tr').remove();
+
+            for (let key of items) {
+                let addSorted = ' <tr>\n' +
+                    `        <td>${key}</td>\n` +
+                    `        <td>${objItems[key]}</td>\n` +
+                    '    </tr>';
+
+                $('#products tbody').append(addSorted);
+            }
+        }
+
+
+        //secondColumn ascending
+        if (colIndex === 1 && descending === false) {
+
+            prices.sort((a, b) => Number(a) - Number(b));
+            $('#products tbody tr').remove();
+
+            for (let price of prices) {
+                let addSorted = ' <tr>\n' +
+                    `        <td>${objPrices[price]}</td>\n` +
+                    `        <td>${price}</td>\n` +
+                    '    </tr>';
+
+                $('#products tbody').append(addSorted);
+            }
+
+            //secondColumn descending
+        } else if (colIndex === 1 && descending === true) {
+
+            prices.sort((a, b) => Number(b)- Number(a));
+            $('#products tbody tr').remove();
+
+            for (let price of prices) {
+                let addSorted = ' <tr>\n' +
+                    `        <td>${objPrices[price]}</td>\n` +
+                    `        <td>${price}</td>\n` +
+                    '    </tr>';
+
+                $('#products tbody').append(addSorted);
+            }
+        }
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wiki Parser</title>
+    <script src="jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<div>
+    <p id="wiki">
+        =Document title=
+        ==First segment==
+        '''bold 1''' word ''italics 1'' '''bold2'''
+        [[hyper first]] '''Bold three''' ''italics2'''
+        word [[hyper2]] [[hyperlink2|with Label]]
+        ==Second segment==
+        ===Third segment===
+        word '''word'''[[pipe|bomb]]
+    </p>
+</div>
+<script>
+    window.onload = function(){
+        wikiParser('#wiki');
+    };
+    function wikiParser(selector) {
+        let text = $(selector).text();
+        let formatted = text
+            .replace(/===([^='\[]+?)===/g, (match, group) => `<h3>${group}</h3>`)
+            .replace(/==([^='\[]+?)==/g, (match, group) => `<h2>${group}</h2>`)
+            .replace(/=([^='\[]+?)=/g, (match, group) => `<h1>${group}</h1>`)
+            .replace(/'''([^'=\[]+?)'''/g, (match, group) => `<b>${group}</b>`)
+            .replace(/''([^'=\[]+?)''/g, (match, group) => `<i>${group}</i>`)
+            .replace(/\[\[([^'=\[\]]+?)\|([^'=\[\]]+?)]]/g, (match, group1, group2) => `<a href="/wiki/${group1}">${group2}</a>`)
+            .replace(/\[\[([^'=\[\]]+?)]]/g, (match, group) => `<a href="/wiki/${group}">${group}</a>`);
+
+        $(selector).html(formatted);
+    }
+</script>
+</body>
+</html>

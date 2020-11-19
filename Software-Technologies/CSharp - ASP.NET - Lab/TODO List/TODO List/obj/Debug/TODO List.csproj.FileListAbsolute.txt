@@ -1,0 +1,46 @@
+C:\Users\user\source\repos\TODO List\TODO List\bin\ApplicationInsights.config
+C:\Users\user\source\repos\TODO List\TODO List\bin\TODO List.dll.config
+C:\Users\user\source\repos\TODO List\TODO List\bin\TODO List.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\TODO List.pdb
+C:\Users\user\source\repos\TODO List\TODO List\bin\Antlr3.Runtime.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.Web.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.Helpers.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.Mvc.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.Optimization.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.Razor.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.WebPages.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\WebGrease.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.Helpers.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.Mvc.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.Optimization.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.Razor.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.WebPages.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\Antlr3.Runtime.pdb
+C:\Users\user\source\repos\TODO List\TODO List\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\Microsoft.AI.Web.xml
+C:\Users\user\source\repos\TODO List\TODO List\obj\Debug\TODO List.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\TODO List\TODO List\obj\Debug\TODO List.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TODO List\TODO List\obj\Debug\TODO List.dll
+C:\Users\user\source\repos\TODO List\TODO List\obj\Debug\TODO List.pdb
+C:\Users\user\source\repos\TODO List\TODO List\bin\EntityFramework.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\TODO List\TODO List\bin\EntityFramework.xml
+C:\Users\user\source\repos\TODO List\TODO List\bin\EntityFramework.SqlServer.xml
